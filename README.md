@@ -76,3 +76,5 @@ more jobs than I would like.
 In the jobs JSON, there is 505 jobs in walmart_jobs_formatted, and 3495 jobs in walmart_jobs_bad. 
 I added to the search query "IT". I was hoping that would help filter for IT jobs, but instead it picked up
 many Cashier Roles. Regardless, the data is still good. 
+
+Logs should (probably) be gitignored, but as it is part of the assessment I kept them visable.
