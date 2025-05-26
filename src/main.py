@@ -1,10 +1,9 @@
 import os
 import json
 import logging
+import asyncio
 import requests
-
-from scrape import *
-from async_scraper import a_scrape
+from async_scraper import async_scrape
 
 
 # Configure logging to write to both a file and the console
@@ -30,16 +29,16 @@ logging.basicConfig(
 )
 
 
-def main():
+async def main():
     """
-    Main function to execute the scraping process.
+    Main function to execute the scraping process asynchronously.
     Fetches proxies, performs scraping, and saves the results.
     """
     THREADS = 8
-    PAGES = 160
+    PAGES = 32
     QUERY = "IT"
-    proxies = get_proxies()
-    formatted_data, bad_data = a_scrape(PAGES, THREADS, proxies, QUERY)
+    # proxies = get_proxies()
+    formatted_data, bad_data = await async_scrape(PAGES, THREADS, None, QUERY)
 
     formatted_count = sum(len(jobs) for jobs in formatted_data.values())
     bad_count = sum(len(jobs) for jobs in bad_data.values())
@@ -47,7 +46,6 @@ def main():
     logging.info(f"Total jobs in bad_data: {bad_count}")
 
     save(formatted_data, bad_data)
-
 
 
 def get_proxies():
@@ -79,8 +77,7 @@ def get_proxies():
 
 def save(formatted_data, bad_data):
     """
-    Saves formatted and bad (no address) data to separate JSON files, in 
-    Unibui's JSON format.
+    Saves formatted and bad (no address) data to separate JSON files.
 
     Args:
         formatted_data (list): List of jobs with valid addresses.
@@ -136,4 +133,4 @@ def save(formatted_data, bad_data):
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
