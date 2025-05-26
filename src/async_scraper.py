@@ -40,11 +40,18 @@ async def async_scrape(total_pages, num_scrapers, proxies=None, query="", retrie
                         await page.wait_for_selector(".job-listing")  # Wait for job listings to load
 
                         # Sort by date
-                        sort_button = await page.query_selector("label.search__sort__option__label[title='Job Post Date']")
-                        if sort_button:
-                            await sort_button.click()
+                        # sort_button = await page.query_selector("label.search__sort__option__label[title='Job Post Date']")
+                        # if sort_button:
+                        #     await sort_button.click()
 
-                        jobs = await page.query_selector_all(".job-listing")
+                        jobs_all = await page.query_selector_all(".job-listing")
+                        jobs = []
+                        #filter out the 'recent-jobs' tab
+                        for job in jobs_all:
+                            in_recent = await job.evaluate("node => node.closest('.recent-jobs') !== null")
+                            if not in_recent:
+                                jobs.append(job)
+                        
                         logging.info(f"Found {len(jobs)} jobs on page {page_num}")
                         for job in jobs:
                             title_element = await job.query_selector(".job-listing__link")

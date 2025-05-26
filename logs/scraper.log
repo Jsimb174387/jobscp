@@ -185,3 +185,527 @@ KeyboardInterrupt
 2025-05-26 13:29:41,125 - INFO - Found 28 jobs on page 4
 2025-05-26 13:30:02,697 - INFO - Total jobs in formatted_data: 4
 2025-05-26 13:30:02,698 - INFO - Total jobs in bad_data: 868
+2025-05-26 15:20:47,893 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
+2025-05-26 15:20:48,826 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
+2025-05-26 15:20:48,871 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
+2025-05-26 15:20:48,950 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
+2025-05-26 15:20:48,956 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
+2025-05-26 15:20:48,961 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
+2025-05-26 15:20:48,964 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
+2025-05-26 15:20:48,975 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
+2025-05-26 15:20:49,066 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
+2025-05-26 15:20:53,894 - INFO - Found 25 jobs on page 17
+2025-05-26 15:20:53,928 - INFO - Found 25 jobs on page 1
+2025-05-26 15:20:54,062 - INFO - Found 25 jobs on page 21
+2025-05-26 15:20:54,119 - INFO - Found 25 jobs on page 13
+2025-05-26 15:20:54,309 - INFO - Found 25 jobs on page 25
+2025-05-26 15:20:54,649 - INFO - Found 25 jobs on page 9
+2025-05-26 15:20:54,714 - INFO - Found 25 jobs on page 5
+2025-05-26 15:20:54,798 - INFO - Found 25 jobs on page 29
+2025-05-26 15:21:26,213 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
+2025-05-26 15:21:26,713 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
+2025-05-26 15:21:27,659 - INFO - Found 25 jobs on page 30
+2025-05-26 15:21:27,942 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
+2025-05-26 15:21:29,166 - INFO - Found 25 jobs on page 6
+2025-05-26 15:21:29,178 - INFO - Found 25 jobs on page 10
+2025-05-26 15:21:30,514 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
+2025-05-26 15:21:30,624 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
+2025-05-26 15:21:31,712 - INFO - Found 25 jobs on page 22
+2025-05-26 15:21:31,801 - INFO - Found 25 jobs on page 2
+2025-05-26 15:21:34,380 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
+2025-05-26 15:21:35,556 - INFO - Found 25 jobs on page 26
+2025-05-26 15:21:41,633 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
+2025-05-26 15:21:42,981 - INFO - Found 25 jobs on page 18
+2025-05-26 15:21:45,497 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
+2025-05-26 15:21:46,739 - INFO - Found 25 jobs on page 14
+2025-05-26 15:22:00,949 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
+2025-05-26 15:22:02,065 - INFO - Found 25 jobs on page 31
+2025-05-26 15:22:02,280 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
+2025-05-26 15:22:03,510 - INFO - Found 25 jobs on page 7
+2025-05-26 15:22:05,724 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
+2025-05-26 15:22:06,937 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
+2025-05-26 15:22:07,356 - INFO - Found 25 jobs on page 23
+2025-05-26 15:22:08,358 - INFO - Found 25 jobs on page 11
+2025-05-26 15:22:15,194 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
+2025-05-26 15:22:16,681 - INFO - Found 25 jobs on page 3
+2025-05-26 15:22:18,206 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
+2025-05-26 15:22:19,792 - INFO - Found 25 jobs on page 27
+2025-05-26 15:22:26,745 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
+2025-05-26 15:22:28,414 - INFO - Found 25 jobs on page 19
+2025-05-26 15:22:34,128 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
+2025-05-26 15:22:35,384 - INFO - Found 25 jobs on page 32
+2025-05-26 15:22:36,516 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
+2025-05-26 15:22:36,617 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
+2025-05-26 15:22:37,975 - INFO - Found 25 jobs on page 8
+2025-05-26 15:22:37,994 - INFO - Found 25 jobs on page 15
+2025-05-26 15:22:40,512 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
+2025-05-26 15:22:41,658 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
+2025-05-26 15:22:42,266 - INFO - Found 25 jobs on page 12
+2025-05-26 15:22:42,983 - INFO - Found 25 jobs on page 24
+2025-05-26 15:22:53,260 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
+2025-05-26 15:22:54,562 - INFO - Found 25 jobs on page 4
+2025-05-26 15:23:08,772 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
+2025-05-26 15:23:10,152 - INFO - Found 25 jobs on page 20
+2025-05-26 15:23:13,004 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
+2025-05-26 15:23:14,230 - INFO - Found 25 jobs on page 28
+2025-05-26 15:23:16,205 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
+2025-05-26 15:23:17,589 - INFO - Found 25 jobs on page 16
+2025-05-26 15:23:37,333 - INFO - Total jobs in formatted_data: 4
+2025-05-26 15:23:37,333 - INFO - Total jobs in bad_data: 796
+2025-05-26 15:33:33,839 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
+2025-05-26 15:33:34,721 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
+2025-05-26 15:33:34,855 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
+2025-05-26 15:33:34,866 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
+2025-05-26 15:33:34,871 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
+2025-05-26 15:33:34,903 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
+2025-05-26 15:33:34,905 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
+2025-05-26 15:33:34,908 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
+2025-05-26 15:33:35,003 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
+2025-05-26 15:33:39,375 - INFO - Found 25 jobs on page 29
+2025-05-26 15:33:39,573 - INFO - Found 25 jobs on page 21
+2025-05-26 15:33:39,694 - INFO - Found 25 jobs on page 13
+2025-05-26 15:33:39,778 - INFO - Found 25 jobs on page 25
+2025-05-26 15:33:39,847 - INFO - Found 25 jobs on page 17
+2025-05-26 15:33:39,998 - INFO - Found 25 jobs on page 9
+2025-05-26 15:33:40,309 - INFO - Found 25 jobs on page 5
+2025-05-26 15:33:41,243 - INFO - Found 25 jobs on page 1
+2025-05-26 15:34:12,323 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
+2025-05-26 15:34:12,336 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
+2025-05-26 15:34:13,202 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
+2025-05-26 15:34:13,244 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
+2025-05-26 15:34:14,014 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
+2025-05-26 15:34:14,080 - INFO - Found 25 jobs on page 22
+2025-05-26 15:34:14,136 - INFO - Found 25 jobs on page 10
+2025-05-26 15:34:14,211 - INFO - Found 25 jobs on page 30
+2025-05-26 15:34:14,289 - INFO - Found 25 jobs on page 6
+2025-05-26 15:34:15,021 - INFO - Found 25 jobs on page 18
+2025-05-26 15:34:21,368 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
+2025-05-26 15:34:22,690 - INFO - Found 25 jobs on page 26
+2025-05-26 15:34:23,272 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
+2025-05-26 15:34:24,633 - INFO - Found 25 jobs on page 2
+2025-05-26 15:34:35,079 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
+2025-05-26 15:34:37,072 - INFO - Found 25 jobs on page 14
+2025-05-26 15:34:45,414 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
+2025-05-26 15:34:46,506 - INFO - Found 25 jobs on page 23
+2025-05-26 15:34:47,416 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
+2025-05-26 15:34:48,534 - INFO - Found 25 jobs on page 7
+2025-05-26 15:34:49,138 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
+2025-05-26 15:34:50,409 - INFO - Found 25 jobs on page 11
+2025-05-26 15:34:51,449 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
+2025-05-26 15:34:52,425 - INFO - Found 25 jobs on page 31
+2025-05-26 15:34:57,142 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
+2025-05-26 15:34:58,085 - INFO - Found 25 jobs on page 19
+2025-05-26 15:35:05,606 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
+2025-05-26 15:35:05,668 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
+2025-05-26 15:35:06,835 - INFO - Found 25 jobs on page 3
+2025-05-26 15:35:07,111 - INFO - Found 25 jobs on page 27
+2025-05-26 15:35:17,551 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
+2025-05-26 15:35:18,617 - INFO - Found 25 jobs on page 24
+2025-05-26 15:35:20,184 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
+2025-05-26 15:35:20,985 - INFO - Found 0 jobs on page 8
+2025-05-26 15:35:21,784 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
+2025-05-26 15:35:23,267 - INFO - Found 25 jobs on page 12
+2025-05-26 15:35:24,336 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
+2025-05-26 15:35:25,688 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
+2025-05-26 15:35:25,750 - INFO - Found 25 jobs on page 32
+2025-05-26 15:35:26,729 - INFO - Found 25 jobs on page 15
+2025-05-26 15:35:41,931 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
+2025-05-26 15:35:43,855 - INFO - Found 25 jobs on page 20
+2025-05-26 15:35:45,898 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
+2025-05-26 15:35:46,047 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
+2025-05-26 15:35:47,274 - INFO - Found 25 jobs on page 28
+2025-05-26 15:35:47,317 - INFO - Found 25 jobs on page 4
+2025-05-26 15:35:59,976 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
+2025-05-26 15:36:00,836 - INFO - Found 25 jobs on page 16
+2025-05-26 15:36:19,942 - INFO - Total jobs in formatted_data: 4
+2025-05-26 15:36:19,942 - INFO - Total jobs in bad_data: 771
+2025-05-26 15:38:06,293 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
+2025-05-26 15:38:07,291 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
+2025-05-26 15:38:07,333 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
+2025-05-26 15:38:07,366 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
+2025-05-26 15:38:07,383 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
+2025-05-26 15:38:07,400 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
+2025-05-26 15:38:07,450 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
+2025-05-26 15:38:07,543 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
+2025-05-26 15:38:07,598 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
+2025-05-26 15:38:09,197 - INFO - Found 25 jobs on page 25
+2025-05-26 15:38:09,440 - INFO - Found 25 jobs on page 29
+2025-05-26 15:38:09,536 - INFO - Found 25 jobs on page 17
+2025-05-26 15:38:09,577 - INFO - Found 25 jobs on page 9
+2025-05-26 15:38:09,657 - INFO - Found 25 jobs on page 21
+2025-05-26 15:38:09,761 - INFO - Found 25 jobs on page 13
+2025-05-26 15:38:09,865 - INFO - Found 25 jobs on page 5
+2025-05-26 15:38:09,920 - INFO - Found 25 jobs on page 1
+2025-05-26 15:38:41,287 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
+2025-05-26 15:38:42,137 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
+2025-05-26 15:38:42,252 - INFO - Found 25 jobs on page 30
+2025-05-26 15:38:43,212 - INFO - Found 25 jobs on page 26
+2025-05-26 15:38:43,445 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
+2025-05-26 15:38:43,478 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
+2025-05-26 15:38:44,462 - INFO - Found 25 jobs on page 6
+2025-05-26 15:38:44,618 - INFO - Found 25 jobs on page 10
+2025-05-26 15:38:45,131 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
+2025-05-26 15:38:46,106 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
+2025-05-26 15:38:46,329 - INFO - Found 25 jobs on page 18
+2025-05-26 15:38:47,624 - INFO - Found 25 jobs on page 2
+2025-05-26 15:39:06,415 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
+2025-05-26 15:39:07,427 - INFO - Found 25 jobs on page 22
+2025-05-26 15:39:11,684 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
+2025-05-26 15:39:12,799 - INFO - Found 25 jobs on page 31
+2025-05-26 15:39:18,142 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
+2025-05-26 15:39:18,314 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
+2025-05-26 15:39:18,435 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
+2025-05-26 15:39:19,143 - INFO - Found 25 jobs on page 19
+2025-05-26 15:39:19,344 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
+2025-05-26 15:39:19,463 - INFO - Found 25 jobs on page 7
+2025-05-26 15:39:19,570 - INFO - Found 25 jobs on page 14
+2025-05-26 15:39:20,467 - INFO - Found 25 jobs on page 3
+2025-05-26 15:39:20,522 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
+2025-05-26 15:39:22,227 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
+2025-05-26 15:39:22,268 - INFO - Found 25 jobs on page 27
+2025-05-26 15:39:23,298 - INFO - Found 25 jobs on page 11
+2025-05-26 15:39:52,336 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
+2025-05-26 15:39:53,389 - INFO - Found 25 jobs on page 32
+2025-05-26 15:39:57,623 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
+2025-05-26 15:39:58,670 - INFO - Found 25 jobs on page 20
+2025-05-26 15:39:59,421 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
+2025-05-26 15:40:00,030 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
+2025-05-26 15:40:00,682 - INFO - Found 25 jobs on page 12
+2025-05-26 15:40:01,067 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
+2025-05-26 15:40:01,184 - INFO - Found 25 jobs on page 8
+2025-05-26 15:40:02,117 - INFO - Found 25 jobs on page 4
+2025-05-26 15:40:02,377 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
+2025-05-26 15:40:03,572 - INFO - Found 25 jobs on page 28
+2025-05-26 15:40:03,756 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
+2025-05-26 15:40:04,772 - INFO - Found 25 jobs on page 15
+2025-05-26 15:40:06,996 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
+2025-05-26 15:40:08,181 - INFO - Found 25 jobs on page 23
+2025-05-26 15:40:41,515 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
+2025-05-26 15:40:42,734 - INFO - Found 25 jobs on page 24
+2025-05-26 15:40:44,440 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
+2025-05-26 15:40:45,724 - INFO - Found 25 jobs on page 16
+2025-05-26 15:41:03,509 - INFO - Total jobs in formatted_data: 4
+2025-05-26 15:41:03,509 - INFO - Total jobs in bad_data: 796
+2025-05-26 15:51:58,009 - INFO - Starting async_scrape with 160 pages, 8 scrapers, and query 'IT'
+2025-05-26 15:51:58,934 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
+2025-05-26 15:51:58,981 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=121
+2025-05-26 15:51:59,042 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=41
+2025-05-26 15:51:59,055 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=81
+2025-05-26 15:51:59,057 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=61
+2025-05-26 15:51:59,094 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=141
+2025-05-26 15:51:59,130 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=101
+2025-05-26 15:51:59,145 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
+2025-05-26 15:52:03,537 - INFO - Found 25 jobs on page 21
+2025-05-26 15:52:03,660 - INFO - Found 25 jobs on page 61
+2025-05-26 15:52:03,755 - INFO - Found 25 jobs on page 81
+2025-05-26 15:52:03,766 - INFO - Found 25 jobs on page 121
+2025-05-26 15:52:03,912 - INFO - Found 25 jobs on page 1
+2025-05-26 15:52:04,943 - INFO - Found 25 jobs on page 41
+2025-05-26 15:52:05,340 - INFO - Found 25 jobs on page 141
+2025-05-26 15:52:05,499 - INFO - Found 25 jobs on page 101
+2025-05-26 15:52:38,821 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=122
+2025-05-26 15:52:38,863 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
+2025-05-26 15:52:39,894 - INFO - Found 25 jobs on page 22
+2025-05-26 15:52:40,194 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
+2025-05-26 15:52:40,196 - INFO - Found 25 jobs on page 122
+2025-05-26 15:52:40,627 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=42
+2025-05-26 15:52:41,214 - INFO - Found 25 jobs on page 2
+2025-05-26 15:52:42,008 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=62
+2025-05-26 15:52:42,393 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=142
+2025-05-26 15:52:42,585 - INFO - Found 25 jobs on page 42
+2025-05-26 15:52:42,957 - INFO - Found 25 jobs on page 62
+2025-05-26 15:52:43,438 - INFO - Found 25 jobs on page 142
+2025-05-26 15:52:45,908 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=82
+2025-05-26 15:52:47,189 - INFO - Found 25 jobs on page 82
+2025-05-26 15:52:49,504 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=102
+2025-05-26 15:52:50,651 - INFO - Found 25 jobs on page 102
+2025-05-26 15:53:13,462 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=123
+2025-05-26 15:53:13,526 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
+2025-05-26 15:53:14,634 - INFO - Found 25 jobs on page 3
+2025-05-26 15:53:14,700 - INFO - Found 25 jobs on page 123
+2025-05-26 15:53:14,944 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=63
+2025-05-26 15:53:16,648 - INFO - Found 25 jobs on page 63
+2025-05-26 15:53:16,935 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=83
+2025-05-26 15:53:16,944 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=43
+2025-05-26 15:53:17,976 - INFO - Found 25 jobs on page 83
+2025-05-26 15:53:18,218 - INFO - Found 25 jobs on page 43
+2025-05-26 15:53:25,589 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=103
+2025-05-26 15:53:27,223 - INFO - Found 25 jobs on page 103
+2025-05-26 15:53:32,880 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=143
+2025-05-26 15:53:34,466 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
+2025-05-26 15:53:34,506 - INFO - Found 25 jobs on page 143
+2025-05-26 15:53:35,455 - INFO - Found 25 jobs on page 23
+2025-05-26 15:53:46,983 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
+2025-05-26 15:53:48,074 - INFO - Found 25 jobs on page 4
+2025-05-26 15:53:48,964 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=84
+2025-05-26 15:53:49,709 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=124
+2025-05-26 15:53:50,275 - INFO - Found 25 jobs on page 84
+2025-05-26 15:53:50,752 - INFO - Found 25 jobs on page 124
+2025-05-26 15:53:52,068 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=64
+2025-05-26 15:53:53,500 - INFO - Found 25 jobs on page 64
+2025-05-26 15:53:54,950 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=44
+2025-05-26 15:53:55,838 - INFO - Found 25 jobs on page 44
+2025-05-26 15:54:00,233 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=104
+2025-05-26 15:54:01,705 - INFO - Found 25 jobs on page 104
+2025-05-26 15:54:16,213 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=144
+2025-05-26 15:54:17,496 - INFO - Found 25 jobs on page 144
+2025-05-26 15:54:22,803 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
+2025-05-26 15:54:23,852 - INFO - Found 25 jobs on page 24
+2025-05-26 15:54:24,545 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
+2025-05-26 15:54:25,696 - INFO - Found 25 jobs on page 5
+2025-05-26 15:54:27,059 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=125
+2025-05-26 15:54:28,933 - INFO - Found 25 jobs on page 125
+2025-05-26 15:54:29,288 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=65
+2025-05-26 15:54:30,153 - INFO - Found 25 jobs on page 65
+2025-05-26 15:54:32,943 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=45
+2025-05-26 15:54:33,878 - INFO - Found 25 jobs on page 45
+2025-05-26 15:54:39,123 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=105
+2025-05-26 15:54:40,104 - INFO - Found 25 jobs on page 105
+2025-05-26 15:54:49,419 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=85
+2025-05-26 15:54:50,505 - INFO - Found 25 jobs on page 85
+2025-05-26 15:54:56,983 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
+2025-05-26 15:54:57,946 - INFO - Found 25 jobs on page 6
+2025-05-26 15:54:59,637 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
+2025-05-26 15:55:00,615 - INFO - Found 25 jobs on page 25
+2025-05-26 15:55:00,806 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=66
+2025-05-26 15:55:02,093 - INFO - Found 25 jobs on page 66
+2025-05-26 15:55:08,580 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=126
+2025-05-26 15:55:10,035 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=46
+2025-05-26 15:55:10,258 - INFO - Found 25 jobs on page 126
+2025-05-26 15:55:11,051 - INFO - Found 25 jobs on page 46
+2025-05-26 15:55:13,153 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=145
+2025-05-26 15:55:14,147 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=106
+2025-05-26 15:55:14,185 - INFO - Found 25 jobs on page 145
+2025-05-26 15:55:15,187 - INFO - Found 25 jobs on page 106
+2025-05-26 15:55:25,583 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=86
+2025-05-26 15:55:26,694 - INFO - Found 25 jobs on page 86
+2025-05-26 15:55:29,106 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
+2025-05-26 15:55:30,311 - INFO - Found 25 jobs on page 7
+2025-05-26 15:55:33,864 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
+2025-05-26 15:55:34,863 - INFO - Found 25 jobs on page 26
+2025-05-26 15:55:43,794 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=127
+2025-05-26 15:55:44,640 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=47
+2025-05-26 15:55:44,915 - INFO - Found 25 jobs on page 127
+2025-05-26 15:55:46,297 - INFO - Found 25 jobs on page 47
+2025-05-26 15:55:48,140 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=146
+2025-05-26 15:55:48,964 - INFO - Found 0 jobs on page 146
+2025-05-26 15:55:48,966 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=147
+2025-05-26 15:55:50,503 - INFO - Found 25 jobs on page 147
+2025-05-26 15:55:58,512 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=87
+2025-05-26 15:55:59,846 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=107
+2025-05-26 15:55:59,972 - INFO - Found 25 jobs on page 87
+2025-05-26 15:56:00,817 - INFO - Found 25 jobs on page 107
+2025-05-26 15:56:00,871 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
+2025-05-26 15:56:02,046 - INFO - Found 25 jobs on page 8
+2025-05-26 15:56:09,077 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=67
+2025-05-26 15:56:09,993 - INFO - Found 25 jobs on page 67
+2025-05-26 15:56:15,613 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=128
+2025-05-26 15:56:16,668 - INFO - Found 25 jobs on page 128
+2025-05-26 15:56:22,536 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
+2025-05-26 15:56:23,647 - INFO - Found 25 jobs on page 27
+2025-05-26 15:56:32,942 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=108
+2025-05-26 15:56:33,969 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
+2025-05-26 15:56:34,023 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=88
+2025-05-26 15:56:34,160 - INFO - Found 25 jobs on page 108
+2025-05-26 15:56:35,009 - INFO - Found 25 jobs on page 9
+2025-05-26 15:56:35,058 - INFO - Found 25 jobs on page 88
+2025-05-26 15:56:39,327 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=48
+2025-05-26 15:56:39,363 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=148
+2025-05-26 15:56:40,298 - INFO - Found 25 jobs on page 48
+2025-05-26 15:56:40,481 - INFO - Found 25 jobs on page 148
+2025-05-26 15:56:46,730 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=68
+2025-05-26 15:56:47,764 - INFO - Found 25 jobs on page 68
+2025-05-26 15:56:50,313 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=129
+2025-05-26 15:56:51,073 - INFO - Found 0 jobs on page 129
+2025-05-26 15:56:51,073 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=130
+2025-05-26 15:56:52,741 - INFO - Found 25 jobs on page 130
+2025-05-26 15:57:04,909 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=89
+2025-05-26 15:57:05,915 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=109
+2025-05-26 15:57:05,995 - INFO - Found 25 jobs on page 89
+2025-05-26 15:57:07,014 - INFO - Found 25 jobs on page 109
+2025-05-26 15:57:16,620 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=69
+2025-05-26 15:57:17,594 - INFO - Found 25 jobs on page 69
+2025-05-26 15:57:23,360 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=131
+2025-05-26 15:57:23,382 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
+2025-05-26 15:57:24,389 - INFO - Found 25 jobs on page 131
+2025-05-26 15:57:24,763 - INFO - Found 25 jobs on page 10
+2025-05-26 15:57:25,481 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
+2025-05-26 15:57:26,389 - INFO - Found 25 jobs on page 28
+2025-05-26 15:57:35,865 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=90
+2025-05-26 15:57:36,887 - INFO - Found 25 jobs on page 90
+2025-05-26 15:57:37,080 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=110
+2025-05-26 15:57:38,104 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=49
+2025-05-26 15:57:38,345 - INFO - Found 25 jobs on page 110
+2025-05-26 15:57:39,160 - INFO - Found 25 jobs on page 49
+2025-05-26 15:57:48,136 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=70
+2025-05-26 15:57:49,087 - INFO - Found 25 jobs on page 70
+2025-05-26 15:57:51,176 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=149
+2025-05-26 15:57:52,531 - INFO - Found 25 jobs on page 149
+2025-05-26 15:58:00,237 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
+2025-05-26 15:58:01,263 - INFO - Found 25 jobs on page 29
+2025-05-26 15:58:04,026 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=132
+2025-05-26 15:58:05,584 - INFO - Found 25 jobs on page 132
+2025-05-26 15:58:07,660 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=91
+2025-05-26 15:58:09,088 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=50
+2025-05-26 15:58:09,582 - INFO - Found 25 jobs on page 91
+2025-05-26 15:58:10,292 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
+2025-05-26 15:58:11,382 - INFO - Found 25 jobs on page 11
+2025-05-26 15:58:11,499 - INFO - Found 25 jobs on page 50
+2025-05-26 15:58:19,134 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=111
+2025-05-26 15:58:20,371 - INFO - Found 25 jobs on page 111
+2025-05-26 15:58:22,411 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=71
+2025-05-26 15:58:23,504 - INFO - Found 25 jobs on page 71
+2025-05-26 15:58:27,525 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=150
+2025-05-26 15:58:28,555 - INFO - Found 25 jobs on page 150
+2025-05-26 15:58:42,107 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=133
+2025-05-26 15:58:43,780 - INFO - Found 25 jobs on page 133
+2025-05-26 15:58:45,255 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=51
+2025-05-26 15:58:46,736 - INFO - Found 25 jobs on page 51
+2025-05-26 15:58:46,779 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=92
+2025-05-26 15:58:47,834 - INFO - Found 25 jobs on page 92
+2025-05-26 15:58:51,494 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
+2025-05-26 15:58:51,996 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
+2025-05-26 15:58:52,684 - INFO - Found 25 jobs on page 12
+2025-05-26 15:58:52,962 - INFO - Found 25 jobs on page 30
+2025-05-26 15:58:59,912 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=72
+2025-05-26 15:59:01,327 - INFO - Found 25 jobs on page 72
+2025-05-26 15:59:06,900 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=151
+2025-05-26 15:59:08,103 - INFO - Found 25 jobs on page 151
+2025-05-26 15:59:19,236 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=112
+2025-05-26 15:59:19,243 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=93
+2025-05-26 15:59:19,405 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=134
+2025-05-26 15:59:20,340 - INFO - Found 25 jobs on page 93
+2025-05-26 15:59:20,548 - INFO - Found 25 jobs on page 134
+2025-05-26 15:59:20,611 - INFO - Found 25 jobs on page 112
+2025-05-26 15:59:23,203 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=52
+2025-05-26 15:59:24,328 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
+2025-05-26 15:59:24,522 - INFO - Found 25 jobs on page 52
+2025-05-26 15:59:25,473 - INFO - Found 25 jobs on page 13
+2025-05-26 15:59:26,599 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
+2025-05-26 15:59:27,551 - INFO - Found 25 jobs on page 31
+2025-05-26 15:59:34,714 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=73
+2025-05-26 15:59:36,515 - INFO - Found 25 jobs on page 73
+2025-05-26 15:59:55,293 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=135
+2025-05-26 15:59:56,985 - INFO - Found 25 jobs on page 135
+2025-05-26 15:59:57,646 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=113
+2025-05-26 15:59:58,562 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=152
+2025-05-26 15:59:59,629 - INFO - Found 25 jobs on page 113
+2025-05-26 15:59:59,703 - INFO - Found 25 jobs on page 152
+2025-05-26 16:00:00,704 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=94
+2025-05-26 16:00:02,117 - INFO - Found 25 jobs on page 94
+2025-05-26 16:00:03,594 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
+2025-05-26 16:00:04,923 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=53
+2025-05-26 16:00:04,975 - INFO - Found 25 jobs on page 14
+2025-05-26 16:00:05,935 - INFO - Found 25 jobs on page 53
+2025-05-26 16:00:12,394 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=74
+2025-05-26 16:00:13,468 - INFO - Found 25 jobs on page 74
+2025-05-26 16:00:23,619 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
+2025-05-26 16:00:24,615 - INFO - Found 25 jobs on page 32
+2025-05-26 16:00:33,635 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=136
+2025-05-26 16:00:34,779 - INFO - Found 25 jobs on page 136
+2025-05-26 16:00:36,206 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=114
+2025-05-26 16:00:36,270 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=153
+2025-05-26 16:00:37,189 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
+2025-05-26 16:00:37,252 - INFO - Found 25 jobs on page 153
+2025-05-26 16:00:37,367 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=95
+2025-05-26 16:00:37,775 - INFO - Found 25 jobs on page 114
+2025-05-26 16:00:38,416 - INFO - Found 25 jobs on page 15
+2025-05-26 16:00:38,475 - INFO - Found 25 jobs on page 95
+2025-05-26 16:00:44,562 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=54
+2025-05-26 16:00:45,970 - INFO - Found 25 jobs on page 54
+2025-05-26 16:00:47,881 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=75
+2025-05-26 16:00:49,345 - INFO - Found 25 jobs on page 75
+2025-05-26 16:01:08,204 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=137
+2025-05-26 16:01:09,749 - INFO - Found 25 jobs on page 137
+2025-05-26 16:01:11,466 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=115
+2025-05-26 16:01:12,260 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=154
+2025-05-26 16:01:12,731 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
+2025-05-26 16:01:13,483 - INFO - Found 25 jobs on page 115
+2025-05-26 16:01:13,688 - INFO - Found 25 jobs on page 154
+2025-05-26 16:01:13,691 - INFO - Found 25 jobs on page 16
+2025-05-26 16:01:14,972 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=96
+2025-05-26 16:01:16,488 - INFO - Found 25 jobs on page 96
+2025-05-26 16:01:20,557 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=33
+2025-05-26 16:01:21,624 - INFO - Found 25 jobs on page 33
+2025-05-26 16:01:28,100 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=76
+2025-05-26 16:01:29,587 - INFO - Found 25 jobs on page 76
+2025-05-26 16:01:32,101 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=55
+2025-05-26 16:01:33,069 - INFO - Found 25 jobs on page 55
+2025-05-26 16:01:43,645 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=138
+2025-05-26 16:01:45,313 - INFO - Found 25 jobs on page 138
+2025-05-26 16:01:47,831 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=116
+2025-05-26 16:01:52,942 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
+2025-05-26 16:01:53,055 - INFO - Found 25 jobs on page 116
+2025-05-26 16:01:54,154 - INFO - Found 25 jobs on page 17
+2025-05-26 16:01:55,149 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=97
+2025-05-26 16:01:56,117 - INFO - Found 25 jobs on page 97
+2025-05-26 16:01:56,340 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=34
+2025-05-26 16:01:58,509 - INFO - Found 25 jobs on page 34
+2025-05-26 16:02:01,264 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=155
+2025-05-26 16:02:04,362 - INFO - Found 25 jobs on page 155
+2025-05-26 16:02:10,402 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=77
+2025-05-26 16:02:11,769 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=56
+2025-05-26 16:02:12,556 - INFO - Found 25 jobs on page 77
+2025-05-26 16:02:13,326 - INFO - Found 25 jobs on page 56
+2025-05-26 16:02:27,163 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
+2025-05-26 16:02:27,286 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=117
+2025-05-26 16:02:28,278 - INFO - Found 25 jobs on page 18
+2025-05-26 16:02:29,509 - INFO - Found 25 jobs on page 117
+2025-05-26 16:02:31,381 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=35
+2025-05-26 16:02:32,784 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=98
+2025-05-26 16:02:32,885 - INFO - Found 25 jobs on page 35
+2025-05-26 16:02:33,933 - INFO - Found 25 jobs on page 98
+2025-05-26 16:02:37,576 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=139
+2025-05-26 16:02:38,755 - INFO - Found 25 jobs on page 139
+2025-05-26 16:02:44,762 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=156
+2025-05-26 16:02:46,356 - INFO - Found 25 jobs on page 156
+2025-05-26 16:02:47,623 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=78
+2025-05-26 16:02:49,252 - INFO - Found 25 jobs on page 78
+2025-05-26 16:02:50,530 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=57
+2025-05-26 16:02:52,195 - INFO - Found 25 jobs on page 57
+2025-05-26 16:03:08,218 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
+2025-05-26 16:03:09,283 - INFO - Found 25 jobs on page 19
+2025-05-26 16:03:10,794 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=118
+2025-05-26 16:03:10,955 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=99
+2025-05-26 16:03:10,987 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=36
+2025-05-26 16:03:11,953 - INFO - Found 25 jobs on page 118
+2025-05-26 16:03:12,216 - INFO - Found 25 jobs on page 99
+2025-05-26 16:03:12,290 - INFO - Found 25 jobs on page 36
+2025-05-26 16:03:13,038 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=140
+2025-05-26 16:03:14,247 - INFO - Found 25 jobs on page 140
+2025-05-26 16:03:21,641 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=157
+2025-05-26 16:03:22,866 - INFO - Found 25 jobs on page 157
+2025-05-26 16:03:23,059 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=79
+2025-05-26 16:03:24,253 - INFO - Found 25 jobs on page 79
+2025-05-26 16:03:34,240 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=58
+2025-05-26 16:03:35,203 - INFO - Found 25 jobs on page 58
+2025-05-26 16:03:50,275 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
+2025-05-26 16:03:51,314 - INFO - Found 25 jobs on page 20
+2025-05-26 16:03:53,768 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=119
+2025-05-26 16:03:54,270 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=37
+2025-05-26 16:03:55,107 - INFO - Found 25 jobs on page 119
+2025-05-26 16:03:55,121 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=100
+2025-05-26 16:03:55,742 - INFO - Found 25 jobs on page 37
+2025-05-26 16:03:56,175 - INFO - Found 25 jobs on page 100
+2025-05-26 16:03:57,129 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=158
+2025-05-26 16:03:58,538 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=80
+2025-05-26 16:03:59,307 - INFO - Found 25 jobs on page 158
+2025-05-26 16:03:59,983 - INFO - Found 25 jobs on page 80
+2025-05-26 16:04:14,912 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=59
+2025-05-26 16:04:15,901 - INFO - Found 25 jobs on page 59
+2025-05-26 16:04:25,837 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=38
+2025-05-26 16:04:26,984 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=120
+2025-05-26 16:04:26,994 - INFO - Found 25 jobs on page 38
+2025-05-26 16:04:28,004 - INFO - Found 25 jobs on page 120
+2025-05-26 16:04:32,692 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=159
+2025-05-26 16:04:33,557 - INFO - Found 25 jobs on page 159
+2025-05-26 16:04:41,753 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=60
+2025-05-26 16:04:43,064 - INFO - Found 25 jobs on page 60
+2025-05-26 16:04:48,519 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=39
+2025-05-26 16:04:49,852 - INFO - Found 25 jobs on page 39
+2025-05-26 16:04:54,856 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=160
+2025-05-26 16:04:56,085 - INFO - Found 25 jobs on page 160
+2025-05-26 16:05:08,528 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=40
+2025-05-26 16:05:09,740 - INFO - Found 25 jobs on page 40
+2025-05-26 16:05:27,166 - INFO - Total jobs in formatted_data: 411
+2025-05-26 16:05:27,166 - INFO - Total jobs in bad_data: 3540
