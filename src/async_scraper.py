@@ -39,11 +39,6 @@ async def async_scrape(total_pages, num_scrapers, proxies=None, query="", retrie
                         await page.goto(url)
                         await page.wait_for_selector(".job-listing")  # Wait for job listings to load
 
-                        # Sort by date
-                        # sort_button = await page.query_selector("label.search__sort__option__label[title='Job Post Date']")
-                        # if sort_button:
-                        #     await sort_button.click()
-
                         jobs_all = await page.query_selector_all(".job-listing")
                         jobs = []
                         #filter out the 'recent-jobs' tab

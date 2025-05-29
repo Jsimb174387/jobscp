@@ -35,7 +35,7 @@ async def main():
     Fetches proxies, performs scraping, and saves the results.
     """
     THREADS = 8
-    PAGES = 160
+    PAGES = 8
     QUERY = "IT"
     # proxies = get_proxies()
     formatted_data, bad_data = await async_scrape(PAGES, THREADS, None, QUERY)

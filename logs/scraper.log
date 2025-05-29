@@ -1,711 +1,374 @@
-2025-05-26 13:20:13,165 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
-2025-05-26 13:20:14,114 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
-2025-05-26 13:20:14,139 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
-2025-05-26 13:20:14,164 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
-2025-05-26 13:20:14,221 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
-2025-05-26 13:20:14,225 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
-2025-05-26 13:20:14,287 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
-2025-05-26 13:20:14,298 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
-2025-05-26 13:20:14,346 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
-2025-05-26 13:20:15,974 - INFO - Found 25 jobs on page 21
-2025-05-26 13:20:16,132 - INFO - Found 25 jobs on page 9
-2025-05-26 13:20:16,221 - INFO - Found 25 jobs on page 17
-2025-05-26 13:20:16,299 - INFO - Found 25 jobs on page 25
-2025-05-26 13:20:16,353 - INFO - Found 25 jobs on page 29
-2025-05-26 13:20:16,426 - INFO - Found 25 jobs on page 5
-2025-05-26 13:20:16,540 - INFO - Found 25 jobs on page 1
-2025-05-26 13:20:17,595 - INFO - Found 25 jobs on page 13
-2025-05-26 13:20:56,723 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
-2025-05-26 13:20:57,871 - INFO - Found 28 jobs on page 26
-2025-05-26 13:20:58,264 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
-2025-05-26 13:20:58,350 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
-2025-05-26 13:20:59,330 - INFO - Found 28 jobs on page 30
-2025-05-26 13:20:59,501 - INFO - Found 28 jobs on page 22
-2025-05-26 13:20:59,699 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
-2025-05-26 13:20:59,818 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
-2025-05-26 13:21:00,824 - INFO - Found 28 jobs on page 2
-2025-05-26 13:21:01,283 - INFO - Found 28 jobs on page 10
-2025-05-26 13:21:02,988 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
-2025-05-26 13:21:05,077 - INFO - Found 28 jobs on page 6
-2025-05-26 13:21:06,365 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
-2025-05-26 13:21:06,936 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
-2025-05-26 13:21:07,390 - INFO - Found 28 jobs on page 18
-2025-05-26 13:21:08,160 - INFO - Found 28 jobs on page 14
-2025-05-26 13:21:53,940 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
-2025-05-26 13:21:56,052 - INFO - Found 28 jobs on page 23
-2025-05-26 13:22:01,242 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
-2025-05-26 13:22:01,616 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
-2025-05-26 13:22:02,322 - INFO - Found 28 jobs on page 3
-2025-05-26 13:22:03,696 - INFO - Found 28 jobs on page 27
-2025-05-26 13:22:03,853 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
-2025-05-26 13:22:05,281 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
-2025-05-26 13:22:06,718 - INFO - Found 28 jobs on page 11
-2025-05-26 13:22:07,267 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
-2025-05-26 13:22:08,407 - INFO - Found 28 jobs on page 31
-2025-05-26 13:22:08,574 - INFO - Found 28 jobs on page 7
-2025-05-26 13:22:13,984 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
-2025-05-26 13:22:16,437 - INFO - Found 28 jobs on page 15
-2025-05-26 13:22:17,588 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
-2025-05-26 13:22:19,431 - INFO - Found 28 jobs on page 19
-2025-05-26 13:22:59,892 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
-2025-05-26 13:23:01,254 - INFO - Found 28 jobs on page 24
-2025-05-26 13:23:08,772 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
-2025-05-26 13:23:12,632 - INFO - Found 28 jobs on page 4
-2025-05-26 13:23:16,307 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
-2025-05-26 13:23:17,533 - INFO - Found 28 jobs on page 32
-2025-05-26 13:23:22,441 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
-2025-05-26 13:23:23,956 - INFO - Found 28 jobs on page 8
-2025-05-26 13:23:25,412 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
-2025-05-26 13:23:28,955 - INFO - Found 28 jobs on page 28
-2025-05-26 13:23:36,699 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
-2025-05-26 13:23:36,725 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
-2025-05-26 13:23:37,924 - INFO - Found 28 jobs on page 20
-2025-05-26 13:23:41,006 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
-2025-05-26 13:23:42,907 - INFO - Found 28 jobs on page 12
-2025-05-26 13:23:43,113 - INFO - Found 28 jobs on page 16
-2025-05-26 13:25:13,208 - ERROR - Task was destroyed but it is pending!
-task: <Task cancelling name='Task-1' coro=<main() done, defined at C:\Users\Jsimb\Documents\Github\jobscp\src\main.py:32> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:820]>
-2025-05-26 13:25:13,249 - ERROR - Task exception was never retrieved
-future: <Task finished name='Task-14' coro=<Connection.run() done, defined at C:\Users\Jsimb\Documents\Github\jobscp\venv\Lib\site-packages\playwright\_impl\_connection.py:272> exception=KeyboardInterrupt()>
-Traceback (most recent call last):
-  File "C:\Users\Jsimb\Documents\Github\jobscp\src\main.py", line 136, in <module>
-    asyncio.run(main())
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 194, in run
-    with Runner(debug=debug, loop_factory=loop_factory) as runner:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 62, in __exit__
-    self.close()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 70, in close
-    _cancel_all_tasks(loop)
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 206, in _cancel_all_tasks
-    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 706, in run_until_complete
-    self.run_forever()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 677, in run_forever
-    self._run_once()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 2034, in _run_once
-    handle._run()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 89, in _run
-    self._context.run(self._callback, *self._args)
-  File "C:\Users\Jsimb\Documents\Github\jobscp\venv\Lib\site-packages\playwright\_impl\_connection.py", line 281, in run
-    await self._transport.run()
-  File "C:\Users\Jsimb\Documents\Github\jobscp\venv\Lib\site-packages\playwright\_impl\_transport.py", line 170, in run
-    await self._proc.communicate()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\subprocess.py", line 201, in communicate
-    stdin, stdout, stderr = await tasks.gather(stdin, stdout, stderr)
-                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 195, in run
-    return runner.run(main)
-           ^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
-    return self._loop.run_until_complete(task)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 706, in run_until_complete
-    self.run_forever()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 677, in run_forever
-    self._run_once()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 2034, in _run_once
-    handle._run()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 89, in _run
-    self._context.run(self._callback, *self._args)
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\subprocess.py", line 157, in _feed_stdin
-    await self.stdin.drain()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\streams.py", line 386, in drain
-    await self._protocol._drain_helper()
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\streams.py", line 166, in _drain_helper
-    raise ConnectionResetError('Connection lost')
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 157, in _on_sigint
-    raise KeyboardInterrupt()
-KeyboardInterrupt
-2025-05-26 13:26:58,780 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
-2025-05-26 13:26:59,863 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
-2025-05-26 13:26:59,978 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
-2025-05-26 13:26:59,984 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
-2025-05-26 13:27:00,029 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
-2025-05-26 13:27:00,058 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
-2025-05-26 13:27:00,068 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
-2025-05-26 13:27:00,080 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
-2025-05-26 13:27:00,104 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
-2025-05-26 13:27:02,091 - INFO - Found 25 jobs on page 29
-2025-05-26 13:27:02,110 - INFO - Found 25 jobs on page 25
-2025-05-26 13:27:02,209 - INFO - Found 25 jobs on page 1
-2025-05-26 13:27:02,216 - INFO - Found 25 jobs on page 13
-2025-05-26 13:27:02,250 - INFO - Found 25 jobs on page 5
-2025-05-26 13:27:02,336 - INFO - Found 25 jobs on page 9
-2025-05-26 13:27:02,363 - INFO - Found 25 jobs on page 21
-2025-05-26 13:27:04,367 - INFO - Found 25 jobs on page 17
-2025-05-26 13:27:37,464 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
-2025-05-26 13:27:37,740 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
-2025-05-26 13:27:37,764 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
-2025-05-26 13:27:38,287 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
-2025-05-26 13:27:38,360 - INFO - Found 28 jobs on page 22
-2025-05-26 13:27:38,639 - INFO - Found 28 jobs on page 30
-2025-05-26 13:27:39,190 - INFO - Found 28 jobs on page 10
-2025-05-26 13:27:39,372 - INFO - Found 28 jobs on page 26
-2025-05-26 13:27:44,213 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
-2025-05-26 13:27:45,257 - INFO - Found 28 jobs on page 6
-2025-05-26 13:27:49,752 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
-2025-05-26 13:27:50,866 - INFO - Found 28 jobs on page 14
-2025-05-26 13:27:54,802 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
-2025-05-26 13:27:55,639 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
-2025-05-26 13:27:56,409 - INFO - Found 28 jobs on page 18
-2025-05-26 13:27:56,753 - INFO - Found 28 jobs on page 2
-2025-05-26 13:28:16,691 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
-2025-05-26 13:28:16,701 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
-2025-05-26 13:28:16,750 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
-2025-05-26 13:28:17,650 - INFO - Found 28 jobs on page 23
-2025-05-26 13:28:17,761 - INFO - Found 28 jobs on page 11
-2025-05-26 13:28:17,813 - INFO - Found 28 jobs on page 27
-2025-05-26 13:28:21,291 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
-2025-05-26 13:28:22,276 - INFO - Found 28 jobs on page 31
-2025-05-26 13:28:28,047 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
-2025-05-26 13:28:29,089 - INFO - Found 28 jobs on page 7
-2025-05-26 13:28:36,177 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
-2025-05-26 13:28:37,093 - INFO - Found 28 jobs on page 15
-2025-05-26 13:28:42,068 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
-2025-05-26 13:28:43,128 - INFO - Found 28 jobs on page 19
-2025-05-26 13:28:46,461 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
-2025-05-26 13:28:47,396 - INFO - Found 28 jobs on page 3
-2025-05-26 13:28:54,136 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
-2025-05-26 13:28:54,282 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
-2025-05-26 13:28:55,013 - INFO - Found 28 jobs on page 24
-2025-05-26 13:28:55,215 - INFO - Found 28 jobs on page 28
-2025-05-26 13:28:56,516 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
-2025-05-26 13:28:57,495 - INFO - Found 28 jobs on page 12
-2025-05-26 13:29:02,183 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
-2025-05-26 13:29:03,122 - INFO - Found 28 jobs on page 32
-2025-05-26 13:29:04,503 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
-2025-05-26 13:29:05,411 - INFO - Found 28 jobs on page 8
-2025-05-26 13:29:34,797 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
-2025-05-26 13:29:35,755 - INFO - Found 28 jobs on page 16
-2025-05-26 13:29:36,677 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
-2025-05-26 13:29:37,519 - INFO - Found 28 jobs on page 20
-2025-05-26 13:29:40,286 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
-2025-05-26 13:29:41,125 - INFO - Found 28 jobs on page 4
-2025-05-26 13:30:02,697 - INFO - Total jobs in formatted_data: 4
-2025-05-26 13:30:02,698 - INFO - Total jobs in bad_data: 868
-2025-05-26 15:20:47,893 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
-2025-05-26 15:20:48,826 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
-2025-05-26 15:20:48,871 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
-2025-05-26 15:20:48,950 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
-2025-05-26 15:20:48,956 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
-2025-05-26 15:20:48,961 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
-2025-05-26 15:20:48,964 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
-2025-05-26 15:20:48,975 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
-2025-05-26 15:20:49,066 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
-2025-05-26 15:20:53,894 - INFO - Found 25 jobs on page 17
-2025-05-26 15:20:53,928 - INFO - Found 25 jobs on page 1
-2025-05-26 15:20:54,062 - INFO - Found 25 jobs on page 21
-2025-05-26 15:20:54,119 - INFO - Found 25 jobs on page 13
-2025-05-26 15:20:54,309 - INFO - Found 25 jobs on page 25
-2025-05-26 15:20:54,649 - INFO - Found 25 jobs on page 9
-2025-05-26 15:20:54,714 - INFO - Found 25 jobs on page 5
-2025-05-26 15:20:54,798 - INFO - Found 25 jobs on page 29
-2025-05-26 15:21:26,213 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
-2025-05-26 15:21:26,713 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
-2025-05-26 15:21:27,659 - INFO - Found 25 jobs on page 30
-2025-05-26 15:21:27,942 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
-2025-05-26 15:21:29,166 - INFO - Found 25 jobs on page 6
-2025-05-26 15:21:29,178 - INFO - Found 25 jobs on page 10
-2025-05-26 15:21:30,514 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
-2025-05-26 15:21:30,624 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
-2025-05-26 15:21:31,712 - INFO - Found 25 jobs on page 22
-2025-05-26 15:21:31,801 - INFO - Found 25 jobs on page 2
-2025-05-26 15:21:34,380 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
-2025-05-26 15:21:35,556 - INFO - Found 25 jobs on page 26
-2025-05-26 15:21:41,633 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
-2025-05-26 15:21:42,981 - INFO - Found 25 jobs on page 18
-2025-05-26 15:21:45,497 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
-2025-05-26 15:21:46,739 - INFO - Found 25 jobs on page 14
-2025-05-26 15:22:00,949 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
-2025-05-26 15:22:02,065 - INFO - Found 25 jobs on page 31
-2025-05-26 15:22:02,280 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
-2025-05-26 15:22:03,510 - INFO - Found 25 jobs on page 7
-2025-05-26 15:22:05,724 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
-2025-05-26 15:22:06,937 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
-2025-05-26 15:22:07,356 - INFO - Found 25 jobs on page 23
-2025-05-26 15:22:08,358 - INFO - Found 25 jobs on page 11
-2025-05-26 15:22:15,194 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
-2025-05-26 15:22:16,681 - INFO - Found 25 jobs on page 3
-2025-05-26 15:22:18,206 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
-2025-05-26 15:22:19,792 - INFO - Found 25 jobs on page 27
-2025-05-26 15:22:26,745 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
-2025-05-26 15:22:28,414 - INFO - Found 25 jobs on page 19
-2025-05-26 15:22:34,128 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
-2025-05-26 15:22:35,384 - INFO - Found 25 jobs on page 32
-2025-05-26 15:22:36,516 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
-2025-05-26 15:22:36,617 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
-2025-05-26 15:22:37,975 - INFO - Found 25 jobs on page 8
-2025-05-26 15:22:37,994 - INFO - Found 25 jobs on page 15
-2025-05-26 15:22:40,512 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
-2025-05-26 15:22:41,658 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
-2025-05-26 15:22:42,266 - INFO - Found 25 jobs on page 12
-2025-05-26 15:22:42,983 - INFO - Found 25 jobs on page 24
-2025-05-26 15:22:53,260 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
-2025-05-26 15:22:54,562 - INFO - Found 25 jobs on page 4
-2025-05-26 15:23:08,772 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
-2025-05-26 15:23:10,152 - INFO - Found 25 jobs on page 20
-2025-05-26 15:23:13,004 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
-2025-05-26 15:23:14,230 - INFO - Found 25 jobs on page 28
-2025-05-26 15:23:16,205 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
-2025-05-26 15:23:17,589 - INFO - Found 25 jobs on page 16
-2025-05-26 15:23:37,333 - INFO - Total jobs in formatted_data: 4
-2025-05-26 15:23:37,333 - INFO - Total jobs in bad_data: 796
-2025-05-26 15:33:33,839 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
-2025-05-26 15:33:34,721 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
-2025-05-26 15:33:34,855 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
-2025-05-26 15:33:34,866 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
-2025-05-26 15:33:34,871 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
-2025-05-26 15:33:34,903 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
-2025-05-26 15:33:34,905 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
-2025-05-26 15:33:34,908 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
-2025-05-26 15:33:35,003 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
-2025-05-26 15:33:39,375 - INFO - Found 25 jobs on page 29
-2025-05-26 15:33:39,573 - INFO - Found 25 jobs on page 21
-2025-05-26 15:33:39,694 - INFO - Found 25 jobs on page 13
-2025-05-26 15:33:39,778 - INFO - Found 25 jobs on page 25
-2025-05-26 15:33:39,847 - INFO - Found 25 jobs on page 17
-2025-05-26 15:33:39,998 - INFO - Found 25 jobs on page 9
-2025-05-26 15:33:40,309 - INFO - Found 25 jobs on page 5
-2025-05-26 15:33:41,243 - INFO - Found 25 jobs on page 1
-2025-05-26 15:34:12,323 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
-2025-05-26 15:34:12,336 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
-2025-05-26 15:34:13,202 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
-2025-05-26 15:34:13,244 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
-2025-05-26 15:34:14,014 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
-2025-05-26 15:34:14,080 - INFO - Found 25 jobs on page 22
-2025-05-26 15:34:14,136 - INFO - Found 25 jobs on page 10
-2025-05-26 15:34:14,211 - INFO - Found 25 jobs on page 30
-2025-05-26 15:34:14,289 - INFO - Found 25 jobs on page 6
-2025-05-26 15:34:15,021 - INFO - Found 25 jobs on page 18
-2025-05-26 15:34:21,368 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
-2025-05-26 15:34:22,690 - INFO - Found 25 jobs on page 26
-2025-05-26 15:34:23,272 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
-2025-05-26 15:34:24,633 - INFO - Found 25 jobs on page 2
-2025-05-26 15:34:35,079 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
-2025-05-26 15:34:37,072 - INFO - Found 25 jobs on page 14
-2025-05-26 15:34:45,414 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
-2025-05-26 15:34:46,506 - INFO - Found 25 jobs on page 23
-2025-05-26 15:34:47,416 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
-2025-05-26 15:34:48,534 - INFO - Found 25 jobs on page 7
-2025-05-26 15:34:49,138 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
-2025-05-26 15:34:50,409 - INFO - Found 25 jobs on page 11
-2025-05-26 15:34:51,449 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
-2025-05-26 15:34:52,425 - INFO - Found 25 jobs on page 31
-2025-05-26 15:34:57,142 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
-2025-05-26 15:34:58,085 - INFO - Found 25 jobs on page 19
-2025-05-26 15:35:05,606 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
-2025-05-26 15:35:05,668 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
-2025-05-26 15:35:06,835 - INFO - Found 25 jobs on page 3
-2025-05-26 15:35:07,111 - INFO - Found 25 jobs on page 27
-2025-05-26 15:35:17,551 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
-2025-05-26 15:35:18,617 - INFO - Found 25 jobs on page 24
-2025-05-26 15:35:20,184 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
-2025-05-26 15:35:20,985 - INFO - Found 0 jobs on page 8
-2025-05-26 15:35:21,784 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
-2025-05-26 15:35:23,267 - INFO - Found 25 jobs on page 12
-2025-05-26 15:35:24,336 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
-2025-05-26 15:35:25,688 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
-2025-05-26 15:35:25,750 - INFO - Found 25 jobs on page 32
-2025-05-26 15:35:26,729 - INFO - Found 25 jobs on page 15
-2025-05-26 15:35:41,931 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
-2025-05-26 15:35:43,855 - INFO - Found 25 jobs on page 20
-2025-05-26 15:35:45,898 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
-2025-05-26 15:35:46,047 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
-2025-05-26 15:35:47,274 - INFO - Found 25 jobs on page 28
-2025-05-26 15:35:47,317 - INFO - Found 25 jobs on page 4
-2025-05-26 15:35:59,976 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
-2025-05-26 15:36:00,836 - INFO - Found 25 jobs on page 16
-2025-05-26 15:36:19,942 - INFO - Total jobs in formatted_data: 4
-2025-05-26 15:36:19,942 - INFO - Total jobs in bad_data: 771
-2025-05-26 15:38:06,293 - INFO - Starting async_scrape with 32 pages, 8 scrapers, and query 'IT'
-2025-05-26 15:38:07,291 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
-2025-05-26 15:38:07,333 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
-2025-05-26 15:38:07,366 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
-2025-05-26 15:38:07,383 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
-2025-05-26 15:38:07,400 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
-2025-05-26 15:38:07,450 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
-2025-05-26 15:38:07,543 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
-2025-05-26 15:38:07,598 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
-2025-05-26 15:38:09,197 - INFO - Found 25 jobs on page 25
-2025-05-26 15:38:09,440 - INFO - Found 25 jobs on page 29
-2025-05-26 15:38:09,536 - INFO - Found 25 jobs on page 17
-2025-05-26 15:38:09,577 - INFO - Found 25 jobs on page 9
-2025-05-26 15:38:09,657 - INFO - Found 25 jobs on page 21
-2025-05-26 15:38:09,761 - INFO - Found 25 jobs on page 13
-2025-05-26 15:38:09,865 - INFO - Found 25 jobs on page 5
-2025-05-26 15:38:09,920 - INFO - Found 25 jobs on page 1
-2025-05-26 15:38:41,287 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
-2025-05-26 15:38:42,137 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
-2025-05-26 15:38:42,252 - INFO - Found 25 jobs on page 30
-2025-05-26 15:38:43,212 - INFO - Found 25 jobs on page 26
-2025-05-26 15:38:43,445 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
-2025-05-26 15:38:43,478 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
-2025-05-26 15:38:44,462 - INFO - Found 25 jobs on page 6
-2025-05-26 15:38:44,618 - INFO - Found 25 jobs on page 10
-2025-05-26 15:38:45,131 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
-2025-05-26 15:38:46,106 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
-2025-05-26 15:38:46,329 - INFO - Found 25 jobs on page 18
-2025-05-26 15:38:47,624 - INFO - Found 25 jobs on page 2
-2025-05-26 15:39:06,415 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
-2025-05-26 15:39:07,427 - INFO - Found 25 jobs on page 22
-2025-05-26 15:39:11,684 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
-2025-05-26 15:39:12,799 - INFO - Found 25 jobs on page 31
-2025-05-26 15:39:18,142 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
-2025-05-26 15:39:18,314 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
-2025-05-26 15:39:18,435 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
-2025-05-26 15:39:19,143 - INFO - Found 25 jobs on page 19
-2025-05-26 15:39:19,344 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
-2025-05-26 15:39:19,463 - INFO - Found 25 jobs on page 7
-2025-05-26 15:39:19,570 - INFO - Found 25 jobs on page 14
-2025-05-26 15:39:20,467 - INFO - Found 25 jobs on page 3
-2025-05-26 15:39:20,522 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
-2025-05-26 15:39:22,227 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
-2025-05-26 15:39:22,268 - INFO - Found 25 jobs on page 27
-2025-05-26 15:39:23,298 - INFO - Found 25 jobs on page 11
-2025-05-26 15:39:52,336 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
-2025-05-26 15:39:53,389 - INFO - Found 25 jobs on page 32
-2025-05-26 15:39:57,623 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
-2025-05-26 15:39:58,670 - INFO - Found 25 jobs on page 20
-2025-05-26 15:39:59,421 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
-2025-05-26 15:40:00,030 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
-2025-05-26 15:40:00,682 - INFO - Found 25 jobs on page 12
-2025-05-26 15:40:01,067 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
-2025-05-26 15:40:01,184 - INFO - Found 25 jobs on page 8
-2025-05-26 15:40:02,117 - INFO - Found 25 jobs on page 4
-2025-05-26 15:40:02,377 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
-2025-05-26 15:40:03,572 - INFO - Found 25 jobs on page 28
-2025-05-26 15:40:03,756 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
-2025-05-26 15:40:04,772 - INFO - Found 25 jobs on page 15
-2025-05-26 15:40:06,996 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
-2025-05-26 15:40:08,181 - INFO - Found 25 jobs on page 23
-2025-05-26 15:40:41,515 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
-2025-05-26 15:40:42,734 - INFO - Found 25 jobs on page 24
-2025-05-26 15:40:44,440 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
-2025-05-26 15:40:45,724 - INFO - Found 25 jobs on page 16
-2025-05-26 15:41:03,509 - INFO - Total jobs in formatted_data: 4
-2025-05-26 15:41:03,509 - INFO - Total jobs in bad_data: 796
-2025-05-26 15:51:58,009 - INFO - Starting async_scrape with 160 pages, 8 scrapers, and query 'IT'
-2025-05-26 15:51:58,934 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=1
-2025-05-26 15:51:58,981 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=121
-2025-05-26 15:51:59,042 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=41
-2025-05-26 15:51:59,055 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=81
-2025-05-26 15:51:59,057 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=61
-2025-05-26 15:51:59,094 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=141
-2025-05-26 15:51:59,130 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=101
-2025-05-26 15:51:59,145 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=21
-2025-05-26 15:52:03,537 - INFO - Found 25 jobs on page 21
-2025-05-26 15:52:03,660 - INFO - Found 25 jobs on page 61
-2025-05-26 15:52:03,755 - INFO - Found 25 jobs on page 81
-2025-05-26 15:52:03,766 - INFO - Found 25 jobs on page 121
-2025-05-26 15:52:03,912 - INFO - Found 25 jobs on page 1
-2025-05-26 15:52:04,943 - INFO - Found 25 jobs on page 41
-2025-05-26 15:52:05,340 - INFO - Found 25 jobs on page 141
-2025-05-26 15:52:05,499 - INFO - Found 25 jobs on page 101
-2025-05-26 15:52:38,821 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=122
-2025-05-26 15:52:38,863 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=22
-2025-05-26 15:52:39,894 - INFO - Found 25 jobs on page 22
-2025-05-26 15:52:40,194 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=2
-2025-05-26 15:52:40,196 - INFO - Found 25 jobs on page 122
-2025-05-26 15:52:40,627 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=42
-2025-05-26 15:52:41,214 - INFO - Found 25 jobs on page 2
-2025-05-26 15:52:42,008 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=62
-2025-05-26 15:52:42,393 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=142
-2025-05-26 15:52:42,585 - INFO - Found 25 jobs on page 42
-2025-05-26 15:52:42,957 - INFO - Found 25 jobs on page 62
-2025-05-26 15:52:43,438 - INFO - Found 25 jobs on page 142
-2025-05-26 15:52:45,908 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=82
-2025-05-26 15:52:47,189 - INFO - Found 25 jobs on page 82
-2025-05-26 15:52:49,504 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=102
-2025-05-26 15:52:50,651 - INFO - Found 25 jobs on page 102
-2025-05-26 15:53:13,462 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=123
-2025-05-26 15:53:13,526 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=3
-2025-05-26 15:53:14,634 - INFO - Found 25 jobs on page 3
-2025-05-26 15:53:14,700 - INFO - Found 25 jobs on page 123
-2025-05-26 15:53:14,944 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=63
-2025-05-26 15:53:16,648 - INFO - Found 25 jobs on page 63
-2025-05-26 15:53:16,935 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=83
-2025-05-26 15:53:16,944 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=43
-2025-05-26 15:53:17,976 - INFO - Found 25 jobs on page 83
-2025-05-26 15:53:18,218 - INFO - Found 25 jobs on page 43
-2025-05-26 15:53:25,589 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=103
-2025-05-26 15:53:27,223 - INFO - Found 25 jobs on page 103
-2025-05-26 15:53:32,880 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=143
-2025-05-26 15:53:34,466 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=23
-2025-05-26 15:53:34,506 - INFO - Found 25 jobs on page 143
-2025-05-26 15:53:35,455 - INFO - Found 25 jobs on page 23
-2025-05-26 15:53:46,983 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=4
-2025-05-26 15:53:48,074 - INFO - Found 25 jobs on page 4
-2025-05-26 15:53:48,964 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=84
-2025-05-26 15:53:49,709 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=124
-2025-05-26 15:53:50,275 - INFO - Found 25 jobs on page 84
-2025-05-26 15:53:50,752 - INFO - Found 25 jobs on page 124
-2025-05-26 15:53:52,068 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=64
-2025-05-26 15:53:53,500 - INFO - Found 25 jobs on page 64
-2025-05-26 15:53:54,950 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=44
-2025-05-26 15:53:55,838 - INFO - Found 25 jobs on page 44
-2025-05-26 15:54:00,233 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=104
-2025-05-26 15:54:01,705 - INFO - Found 25 jobs on page 104
-2025-05-26 15:54:16,213 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=144
-2025-05-26 15:54:17,496 - INFO - Found 25 jobs on page 144
-2025-05-26 15:54:22,803 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=24
-2025-05-26 15:54:23,852 - INFO - Found 25 jobs on page 24
-2025-05-26 15:54:24,545 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=5
-2025-05-26 15:54:25,696 - INFO - Found 25 jobs on page 5
-2025-05-26 15:54:27,059 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=125
-2025-05-26 15:54:28,933 - INFO - Found 25 jobs on page 125
-2025-05-26 15:54:29,288 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=65
-2025-05-26 15:54:30,153 - INFO - Found 25 jobs on page 65
-2025-05-26 15:54:32,943 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=45
-2025-05-26 15:54:33,878 - INFO - Found 25 jobs on page 45
-2025-05-26 15:54:39,123 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=105
-2025-05-26 15:54:40,104 - INFO - Found 25 jobs on page 105
-2025-05-26 15:54:49,419 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=85
-2025-05-26 15:54:50,505 - INFO - Found 25 jobs on page 85
-2025-05-26 15:54:56,983 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=6
-2025-05-26 15:54:57,946 - INFO - Found 25 jobs on page 6
-2025-05-26 15:54:59,637 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=25
-2025-05-26 15:55:00,615 - INFO - Found 25 jobs on page 25
-2025-05-26 15:55:00,806 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=66
-2025-05-26 15:55:02,093 - INFO - Found 25 jobs on page 66
-2025-05-26 15:55:08,580 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=126
-2025-05-26 15:55:10,035 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=46
-2025-05-26 15:55:10,258 - INFO - Found 25 jobs on page 126
-2025-05-26 15:55:11,051 - INFO - Found 25 jobs on page 46
-2025-05-26 15:55:13,153 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=145
-2025-05-26 15:55:14,147 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=106
-2025-05-26 15:55:14,185 - INFO - Found 25 jobs on page 145
-2025-05-26 15:55:15,187 - INFO - Found 25 jobs on page 106
-2025-05-26 15:55:25,583 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=86
-2025-05-26 15:55:26,694 - INFO - Found 25 jobs on page 86
-2025-05-26 15:55:29,106 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=7
-2025-05-26 15:55:30,311 - INFO - Found 25 jobs on page 7
-2025-05-26 15:55:33,864 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=26
-2025-05-26 15:55:34,863 - INFO - Found 25 jobs on page 26
-2025-05-26 15:55:43,794 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=127
-2025-05-26 15:55:44,640 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=47
-2025-05-26 15:55:44,915 - INFO - Found 25 jobs on page 127
-2025-05-26 15:55:46,297 - INFO - Found 25 jobs on page 47
-2025-05-26 15:55:48,140 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=146
-2025-05-26 15:55:48,964 - INFO - Found 0 jobs on page 146
-2025-05-26 15:55:48,966 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=147
-2025-05-26 15:55:50,503 - INFO - Found 25 jobs on page 147
-2025-05-26 15:55:58,512 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=87
-2025-05-26 15:55:59,846 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=107
-2025-05-26 15:55:59,972 - INFO - Found 25 jobs on page 87
-2025-05-26 15:56:00,817 - INFO - Found 25 jobs on page 107
-2025-05-26 15:56:00,871 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=8
-2025-05-26 15:56:02,046 - INFO - Found 25 jobs on page 8
-2025-05-26 15:56:09,077 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=67
-2025-05-26 15:56:09,993 - INFO - Found 25 jobs on page 67
-2025-05-26 15:56:15,613 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=128
-2025-05-26 15:56:16,668 - INFO - Found 25 jobs on page 128
-2025-05-26 15:56:22,536 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=27
-2025-05-26 15:56:23,647 - INFO - Found 25 jobs on page 27
-2025-05-26 15:56:32,942 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=108
-2025-05-26 15:56:33,969 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=9
-2025-05-26 15:56:34,023 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=88
-2025-05-26 15:56:34,160 - INFO - Found 25 jobs on page 108
-2025-05-26 15:56:35,009 - INFO - Found 25 jobs on page 9
-2025-05-26 15:56:35,058 - INFO - Found 25 jobs on page 88
-2025-05-26 15:56:39,327 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=48
-2025-05-26 15:56:39,363 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=148
-2025-05-26 15:56:40,298 - INFO - Found 25 jobs on page 48
-2025-05-26 15:56:40,481 - INFO - Found 25 jobs on page 148
-2025-05-26 15:56:46,730 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=68
-2025-05-26 15:56:47,764 - INFO - Found 25 jobs on page 68
-2025-05-26 15:56:50,313 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=129
-2025-05-26 15:56:51,073 - INFO - Found 0 jobs on page 129
-2025-05-26 15:56:51,073 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=130
-2025-05-26 15:56:52,741 - INFO - Found 25 jobs on page 130
-2025-05-26 15:57:04,909 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=89
-2025-05-26 15:57:05,915 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=109
-2025-05-26 15:57:05,995 - INFO - Found 25 jobs on page 89
-2025-05-26 15:57:07,014 - INFO - Found 25 jobs on page 109
-2025-05-26 15:57:16,620 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=69
-2025-05-26 15:57:17,594 - INFO - Found 25 jobs on page 69
-2025-05-26 15:57:23,360 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=131
-2025-05-26 15:57:23,382 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=10
-2025-05-26 15:57:24,389 - INFO - Found 25 jobs on page 131
-2025-05-26 15:57:24,763 - INFO - Found 25 jobs on page 10
-2025-05-26 15:57:25,481 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=28
-2025-05-26 15:57:26,389 - INFO - Found 25 jobs on page 28
-2025-05-26 15:57:35,865 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=90
-2025-05-26 15:57:36,887 - INFO - Found 25 jobs on page 90
-2025-05-26 15:57:37,080 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=110
-2025-05-26 15:57:38,104 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=49
-2025-05-26 15:57:38,345 - INFO - Found 25 jobs on page 110
-2025-05-26 15:57:39,160 - INFO - Found 25 jobs on page 49
-2025-05-26 15:57:48,136 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=70
-2025-05-26 15:57:49,087 - INFO - Found 25 jobs on page 70
-2025-05-26 15:57:51,176 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=149
-2025-05-26 15:57:52,531 - INFO - Found 25 jobs on page 149
-2025-05-26 15:58:00,237 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=29
-2025-05-26 15:58:01,263 - INFO - Found 25 jobs on page 29
-2025-05-26 15:58:04,026 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=132
-2025-05-26 15:58:05,584 - INFO - Found 25 jobs on page 132
-2025-05-26 15:58:07,660 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=91
-2025-05-26 15:58:09,088 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=50
-2025-05-26 15:58:09,582 - INFO - Found 25 jobs on page 91
-2025-05-26 15:58:10,292 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=11
-2025-05-26 15:58:11,382 - INFO - Found 25 jobs on page 11
-2025-05-26 15:58:11,499 - INFO - Found 25 jobs on page 50
-2025-05-26 15:58:19,134 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=111
-2025-05-26 15:58:20,371 - INFO - Found 25 jobs on page 111
-2025-05-26 15:58:22,411 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=71
-2025-05-26 15:58:23,504 - INFO - Found 25 jobs on page 71
-2025-05-26 15:58:27,525 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=150
-2025-05-26 15:58:28,555 - INFO - Found 25 jobs on page 150
-2025-05-26 15:58:42,107 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=133
-2025-05-26 15:58:43,780 - INFO - Found 25 jobs on page 133
-2025-05-26 15:58:45,255 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=51
-2025-05-26 15:58:46,736 - INFO - Found 25 jobs on page 51
-2025-05-26 15:58:46,779 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=92
-2025-05-26 15:58:47,834 - INFO - Found 25 jobs on page 92
-2025-05-26 15:58:51,494 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=12
-2025-05-26 15:58:51,996 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=30
-2025-05-26 15:58:52,684 - INFO - Found 25 jobs on page 12
-2025-05-26 15:58:52,962 - INFO - Found 25 jobs on page 30
-2025-05-26 15:58:59,912 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=72
-2025-05-26 15:59:01,327 - INFO - Found 25 jobs on page 72
-2025-05-26 15:59:06,900 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=151
-2025-05-26 15:59:08,103 - INFO - Found 25 jobs on page 151
-2025-05-26 15:59:19,236 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=112
-2025-05-26 15:59:19,243 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=93
-2025-05-26 15:59:19,405 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=134
-2025-05-26 15:59:20,340 - INFO - Found 25 jobs on page 93
-2025-05-26 15:59:20,548 - INFO - Found 25 jobs on page 134
-2025-05-26 15:59:20,611 - INFO - Found 25 jobs on page 112
-2025-05-26 15:59:23,203 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=52
-2025-05-26 15:59:24,328 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=13
-2025-05-26 15:59:24,522 - INFO - Found 25 jobs on page 52
-2025-05-26 15:59:25,473 - INFO - Found 25 jobs on page 13
-2025-05-26 15:59:26,599 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=31
-2025-05-26 15:59:27,551 - INFO - Found 25 jobs on page 31
-2025-05-26 15:59:34,714 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=73
-2025-05-26 15:59:36,515 - INFO - Found 25 jobs on page 73
-2025-05-26 15:59:55,293 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=135
-2025-05-26 15:59:56,985 - INFO - Found 25 jobs on page 135
-2025-05-26 15:59:57,646 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=113
-2025-05-26 15:59:58,562 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=152
-2025-05-26 15:59:59,629 - INFO - Found 25 jobs on page 113
-2025-05-26 15:59:59,703 - INFO - Found 25 jobs on page 152
-2025-05-26 16:00:00,704 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=94
-2025-05-26 16:00:02,117 - INFO - Found 25 jobs on page 94
-2025-05-26 16:00:03,594 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=14
-2025-05-26 16:00:04,923 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=53
-2025-05-26 16:00:04,975 - INFO - Found 25 jobs on page 14
-2025-05-26 16:00:05,935 - INFO - Found 25 jobs on page 53
-2025-05-26 16:00:12,394 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=74
-2025-05-26 16:00:13,468 - INFO - Found 25 jobs on page 74
-2025-05-26 16:00:23,619 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=32
-2025-05-26 16:00:24,615 - INFO - Found 25 jobs on page 32
-2025-05-26 16:00:33,635 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=136
-2025-05-26 16:00:34,779 - INFO - Found 25 jobs on page 136
-2025-05-26 16:00:36,206 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=114
-2025-05-26 16:00:36,270 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=153
-2025-05-26 16:00:37,189 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=15
-2025-05-26 16:00:37,252 - INFO - Found 25 jobs on page 153
-2025-05-26 16:00:37,367 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=95
-2025-05-26 16:00:37,775 - INFO - Found 25 jobs on page 114
-2025-05-26 16:00:38,416 - INFO - Found 25 jobs on page 15
-2025-05-26 16:00:38,475 - INFO - Found 25 jobs on page 95
-2025-05-26 16:00:44,562 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=54
-2025-05-26 16:00:45,970 - INFO - Found 25 jobs on page 54
-2025-05-26 16:00:47,881 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=75
-2025-05-26 16:00:49,345 - INFO - Found 25 jobs on page 75
-2025-05-26 16:01:08,204 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=137
-2025-05-26 16:01:09,749 - INFO - Found 25 jobs on page 137
-2025-05-26 16:01:11,466 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=115
-2025-05-26 16:01:12,260 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=154
-2025-05-26 16:01:12,731 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=16
-2025-05-26 16:01:13,483 - INFO - Found 25 jobs on page 115
-2025-05-26 16:01:13,688 - INFO - Found 25 jobs on page 154
-2025-05-26 16:01:13,691 - INFO - Found 25 jobs on page 16
-2025-05-26 16:01:14,972 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=96
-2025-05-26 16:01:16,488 - INFO - Found 25 jobs on page 96
-2025-05-26 16:01:20,557 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=33
-2025-05-26 16:01:21,624 - INFO - Found 25 jobs on page 33
-2025-05-26 16:01:28,100 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=76
-2025-05-26 16:01:29,587 - INFO - Found 25 jobs on page 76
-2025-05-26 16:01:32,101 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=55
-2025-05-26 16:01:33,069 - INFO - Found 25 jobs on page 55
-2025-05-26 16:01:43,645 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=138
-2025-05-26 16:01:45,313 - INFO - Found 25 jobs on page 138
-2025-05-26 16:01:47,831 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=116
-2025-05-26 16:01:52,942 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=17
-2025-05-26 16:01:53,055 - INFO - Found 25 jobs on page 116
-2025-05-26 16:01:54,154 - INFO - Found 25 jobs on page 17
-2025-05-26 16:01:55,149 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=97
-2025-05-26 16:01:56,117 - INFO - Found 25 jobs on page 97
-2025-05-26 16:01:56,340 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=34
-2025-05-26 16:01:58,509 - INFO - Found 25 jobs on page 34
-2025-05-26 16:02:01,264 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=155
-2025-05-26 16:02:04,362 - INFO - Found 25 jobs on page 155
-2025-05-26 16:02:10,402 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=77
-2025-05-26 16:02:11,769 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=56
-2025-05-26 16:02:12,556 - INFO - Found 25 jobs on page 77
-2025-05-26 16:02:13,326 - INFO - Found 25 jobs on page 56
-2025-05-26 16:02:27,163 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=18
-2025-05-26 16:02:27,286 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=117
-2025-05-26 16:02:28,278 - INFO - Found 25 jobs on page 18
-2025-05-26 16:02:29,509 - INFO - Found 25 jobs on page 117
-2025-05-26 16:02:31,381 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=35
-2025-05-26 16:02:32,784 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=98
-2025-05-26 16:02:32,885 - INFO - Found 25 jobs on page 35
-2025-05-26 16:02:33,933 - INFO - Found 25 jobs on page 98
-2025-05-26 16:02:37,576 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=139
-2025-05-26 16:02:38,755 - INFO - Found 25 jobs on page 139
-2025-05-26 16:02:44,762 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=156
-2025-05-26 16:02:46,356 - INFO - Found 25 jobs on page 156
-2025-05-26 16:02:47,623 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=78
-2025-05-26 16:02:49,252 - INFO - Found 25 jobs on page 78
-2025-05-26 16:02:50,530 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=57
-2025-05-26 16:02:52,195 - INFO - Found 25 jobs on page 57
-2025-05-26 16:03:08,218 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=19
-2025-05-26 16:03:09,283 - INFO - Found 25 jobs on page 19
-2025-05-26 16:03:10,794 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=118
-2025-05-26 16:03:10,955 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=99
-2025-05-26 16:03:10,987 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=36
-2025-05-26 16:03:11,953 - INFO - Found 25 jobs on page 118
-2025-05-26 16:03:12,216 - INFO - Found 25 jobs on page 99
-2025-05-26 16:03:12,290 - INFO - Found 25 jobs on page 36
-2025-05-26 16:03:13,038 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=140
-2025-05-26 16:03:14,247 - INFO - Found 25 jobs on page 140
-2025-05-26 16:03:21,641 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=157
-2025-05-26 16:03:22,866 - INFO - Found 25 jobs on page 157
-2025-05-26 16:03:23,059 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=79
-2025-05-26 16:03:24,253 - INFO - Found 25 jobs on page 79
-2025-05-26 16:03:34,240 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=58
-2025-05-26 16:03:35,203 - INFO - Found 25 jobs on page 58
-2025-05-26 16:03:50,275 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=20
-2025-05-26 16:03:51,314 - INFO - Found 25 jobs on page 20
-2025-05-26 16:03:53,768 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=119
-2025-05-26 16:03:54,270 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=37
-2025-05-26 16:03:55,107 - INFO - Found 25 jobs on page 119
-2025-05-26 16:03:55,121 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=100
-2025-05-26 16:03:55,742 - INFO - Found 25 jobs on page 37
-2025-05-26 16:03:56,175 - INFO - Found 25 jobs on page 100
-2025-05-26 16:03:57,129 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=158
-2025-05-26 16:03:58,538 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=80
-2025-05-26 16:03:59,307 - INFO - Found 25 jobs on page 158
-2025-05-26 16:03:59,983 - INFO - Found 25 jobs on page 80
-2025-05-26 16:04:14,912 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=59
-2025-05-26 16:04:15,901 - INFO - Found 25 jobs on page 59
-2025-05-26 16:04:25,837 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=38
-2025-05-26 16:04:26,984 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=120
-2025-05-26 16:04:26,994 - INFO - Found 25 jobs on page 38
-2025-05-26 16:04:28,004 - INFO - Found 25 jobs on page 120
-2025-05-26 16:04:32,692 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=159
-2025-05-26 16:04:33,557 - INFO - Found 25 jobs on page 159
-2025-05-26 16:04:41,753 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=60
-2025-05-26 16:04:43,064 - INFO - Found 25 jobs on page 60
-2025-05-26 16:04:48,519 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=39
-2025-05-26 16:04:49,852 - INFO - Found 25 jobs on page 39
-2025-05-26 16:04:54,856 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=160
-2025-05-26 16:04:56,085 - INFO - Found 25 jobs on page 160
-2025-05-26 16:05:08,528 - INFO - Scraping URL: https://careers.walmart.com/results?q=IT&page=40
-2025-05-26 16:05:09,740 - INFO - Found 25 jobs on page 40
-2025-05-26 16:05:27,166 - INFO - Total jobs in formatted_data: 411
-2025-05-26 16:05:27,166 - INFO - Total jobs in bad_data: 3540
+2025-05-27 13:48:48,473 - INFO - Starting CVS Scraper
+2025-05-27 13:48:58,152 - INFO - Starting CVS Scraper
+2025-05-27 13:49:28,104 - INFO - Starting CVS Scraper
+2025-05-27 13:50:32,966 - INFO - Starting CVS Scraper
+2025-05-27 13:50:51,198 - INFO - Starting CVS Scraper
+2025-05-27 13:50:55,390 - INFO - Starting CVS Scraper
+2025-05-27 13:51:10,749 - INFO - Starting CVS Scraper
+2025-05-27 13:51:26,107 - INFO - Starting CVS Scraper
+2025-05-27 13:51:38,287 - INFO - Starting CVS Scraper
+2025-05-27 13:52:17,505 - INFO - Starting CVS Scraper
+2025-05-27 13:52:51,948 - WARNING - Attempt 1 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("phw-pr-4") to be visible
+
+2025-05-27 13:53:24,006 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("phw-pr-4") to be visible
+
+2025-05-27 13:53:26,195 - WARNING - Attempt 3 failed: Page.goto: net::ERR_ABORTED at https://jobs.cvshealth.com/us/en/search-results?from=10&s=1
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/search-results?from=10&s=1", waiting until "load"
+
+2025-05-27 13:53:42,087 - INFO - Starting CVS Scraper
+2025-05-27 13:53:45,489 - INFO - [<JSHandle preview=JSHandle@<h3 class="phw-pr-4" data-ps="cef1322e-h3-1">…</h3>>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:48,472 - INFO - [<JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:50,507 - INFO - [<JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:52,259 - INFO - [<JSHandle preview=JSHandle@<h3 class="phw-pr-4" data-ps="cef1322e-h3-1">…</h3>>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:54,415 - INFO - [<JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:55,833 - INFO - [<JSHandle preview=JSHandle@<h3 class="phw-pr-4" data-ps="cef1322e-h3-1">…</h3>>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:57,319 - INFO - [<JSHandle preview=JSHandle@<h3 class="phw-pr-4" data-ps="cef1322e-h3-1">…</h3>>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:53:59,087 - INFO - [<JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:54:01,575 - INFO - [<JSHandle preview=JSHandle@<h3 class="phw-pr-4" data-ps="cef1322e-h3-1">…</h3>>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:54:03,449 - INFO - [<JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>, <JSHandle preview=JSHandle@node>]
+2025-05-27 13:54:03,704 - INFO - HERE
+2025-05-27 16:45:24,262 - INFO - Starting CVS Scraper
+2025-05-27 16:45:29,287 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0599871/Pharmacy-Manager: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:29,378 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 16:45:30,853 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0550840/Pharmacy-Technician: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:30,905 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 16:45:33,328 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0599871/Pharmacy-Manager: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:33,420 - WARNING - Attempt 2 failed: 'address'
+2025-05-27 16:45:35,390 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0550840/Pharmacy-Technician: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:35,438 - WARNING - Attempt 2 failed: 'address'
+2025-05-27 16:45:38,046 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0599871/Pharmacy-Manager: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:38,118 - WARNING - Attempt 3 failed: 'address'
+2025-05-27 16:45:40,108 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0550840/Pharmacy-Technician: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:40,212 - WARNING - Attempt 3 failed: 'address'
+2025-05-27 16:45:44,663 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0599871/Pharmacy-Manager: 'coroutine' object has no attribute 'inner_text'
+2025-05-27 16:45:44,756 - WARNING - Attempt 4 failed: 'address'
+2025-05-27 16:47:44,355 - INFO - Starting CVS Scraper
+2025-05-27 16:47:51,645 - WARNING - Attempt 1 failed: 'coroutine' object is not iterable
+2025-05-27 16:47:51,928 - WARNING - Attempt 1 failed: 'coroutine' object is not iterable
+2025-05-27 16:47:55,586 - WARNING - Attempt 2 failed: 'coroutine' object is not iterable
+2025-05-27 16:47:55,972 - WARNING - Attempt 2 failed: 'coroutine' object is not iterable
+2025-05-27 16:48:00,269 - WARNING - Attempt 3 failed: 'coroutine' object is not iterable
+2025-05-27 16:48:00,640 - WARNING - Attempt 3 failed: 'coroutine' object is not iterable
+2025-05-27 16:49:41,293 - INFO - Starting CVS Scraper
+2025-05-27 16:49:45,470 - WARNING - Attempt 1 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:49:46,526 - WARNING - Attempt 1 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:49:49,008 - WARNING - Attempt 2 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:49:50,013 - WARNING - Attempt 2 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:49:53,448 - WARNING - Attempt 3 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:49:55,731 - WARNING - Attempt 3 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:49:59,690 - WARNING - Attempt 4 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:30,603 - INFO - Starting CVS Scraper
+2025-05-27 16:51:40,003 - WARNING - Attempt 1 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:40,313 - WARNING - Attempt 1 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:43,672 - WARNING - Attempt 2 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:43,980 - WARNING - Attempt 2 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:49,821 - INFO - Starting CVS Scraper
+2025-05-27 16:51:53,927 - WARNING - Attempt 1 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:54,484 - WARNING - Attempt 1 failed: parse() takes 1 positional argument but 2 were given
+2025-05-27 16:51:57,575 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://jobs.cvshealth.com/us/en/job/R0599871/Pharmacy-Manager", waiting until "load"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/job/R0599871/Pharmacy-Manager", waiting until "load"
+
+2025-05-27 16:51:57,576 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 16:52:44,892 - INFO - Starting CVS Scraper
+2025-05-27 16:52:54,609 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:52:54,913 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:52:56,837 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:52:57,951 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:52:58,712 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:52:59,932 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:53:00,040 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:53:01,339 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:53:01,776 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:53:03,009 - ERROR - Error parsing addresses: expected string or bytes-like object, got 'list'
+2025-05-27 16:53:03,510 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://jobs.cvshealth.com/us/en/job/R0562112/Primary-Care-Physician", waiting until "load"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/job/R0562112/Primary-Care-Physician", waiting until "load"
+
+2025-05-27 16:53:03,512 - ERROR - Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://jobs.cvshealth.com/us/en/job/R0579286/Pharmacy-Technician\nCall log:\n  - navigating to "https://jobs.cvshealth.com/us/en/job/R0579286/Pharmacy-Technician", waiting until "load"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://jobs.cvshealth.com/us/en/job/R0579286/Pharmacy-Technician
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/job/R0579286/Pharmacy-Technician", waiting until "load"
+
+2025-05-27 16:55:48,503 - INFO - Starting CVS Scraper
+2025-05-27 16:55:53,155 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 16:55:53,204 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 16:55:56,720 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 16:55:57,337 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 16:56:01,103 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 16:56:02,152 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 16:56:07,203 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 16:56:11,443 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 16:56:17,390 - WARNING - Attempt 5 failed: 'addresses'
+2025-05-27 16:56:17,390 - ERROR - Failed
+2025-05-27 16:56:20,162 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 16:56:22,012 - WARNING - Attempt 5 failed: 'addresses'
+2025-05-27 16:56:22,013 - ERROR - Failed
+2025-05-27 16:56:24,152 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 16:56:24,480 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 16:56:27,845 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 16:56:28,554 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 16:56:32,345 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 16:56:34,657 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 16:56:38,914 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 16:56:45,137 - WARNING - Attempt 5 failed: 'addresses'
+2025-05-27 16:56:45,138 - ERROR - Failed
+2025-05-27 16:56:54,304 - WARNING - Attempt 5 failed: 'addresses'
+2025-05-27 16:56:54,304 - ERROR - Failed
+2025-05-27 16:56:54,375 - INFO - Total jobs in formatted_data: 0
+2025-05-27 16:56:54,375 - INFO - Total jobs in bad_data: 0
+2025-05-27 17:03:55,479 - INFO - Starting CVS Scraper
+2025-05-27 17:04:02,639 - INFO - {'description': 'At CVS Health, we’re building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care.\n\nAs the nation’s leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues – caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all with heart, each and every day.\n\nPosition Summary\n\n\nThe Shift Supervisor Trainee role is an entry-level, short-term role that prepares an employee to perform a higher-level supervisory role, such as Operations Supervisor or Shift Supervisor. The Shift Supervisor Trainee performs work as directed in order to prepare for future supervisory responsibilities, completes basic operations and management skills training, and also learns about key aspects of the business (e.g., building customer loyalty through exceptional service) and CVS/pharmacy culture.\n\nUpon successful completion of the training program, Shift Supervisor Trainees are eligible to be considered for promotion to open Operations Supervisor or Shift Supervisor positions. These key leadership roles support the CVS Store Management team in driving store execution and performance while building consumer loyalty to CVS/pharmacy through a focus on excellent customer service. When there is no manager onsite, the Operations Supervisor or Shift Supervisor leads the store staff, ensures that store operations run smoothly, and is responsible for ensuring the completion of all opening and closing procedures.\n\nEssential Functions:\n1. Management\n\n\nWork effectively with store management and store crews\n\nSupervise the store’s crew through assigning, directing and following up of all activities\n\nEffectively communicate information both to and from store management and crews\n2. Customer Service\n\nAssist customers with their questions, problems and complaints\n\nPromote CVS customer service culture. (Greet, offer help, and thank)\n\nHandle all customer relations issues in accordance with company policy and promote a positive shopping experience for all CVS customers\n\nMaintain customer/patient confidentiality\n\nRequired Qualifications\n\nDeductive reasoning ability, analytical skills and computer skills. Advanced communication skills. Ability to work a flexible schedule, including some early morning, overnight and weekend shifts, to work overtime as needed.\n\n\nPreferred Qualifications\n\nExperience in retail\n\nEducation\n\nHigh School diploma or equivalent preferred but not required.\n\nAnticipated Weekly Hours\n\n20\n\nTime Type\n\nPart time\n\nPay Range\n\nThe typical pay range for this role is:\n\n$16.00 - $24.00\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. \xa0The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. \xa0\n\xa0\n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\nGreat benefits for great people\n\nWe take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be. In addition to our competitive wages, our great benefits include:\n\nAffordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan.\n\nNo-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching.\n\nBenefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility.\n\nFor more information, visit\xa0https://jobs.cvshealth.com/us/en/benefits\n\nWe anticipate the application window for this opening will close on: 07/09/2025\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:04:02,640 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:04:02,955 - INFO - {'description': 'At CVS Health, we’re building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care.\n\nAs the nation’s leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues – caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all with heart, each and every day.\n\nPosition Summary\n\nThe Lead Director, Container Security is a critical member of the Technology Services & Solutions organization, leading the container security capabilities spanning multi-cloud environments and on premises across all CVS Health’s footprints.\xa0 This leader will partner closely with Information Security, various departments in Technology Services & Solutions and application development teams as well as Enterprise Product and Digital organizations to deliver secure container environments that are recognized as industry best in class models.\xa0 The Lead Director will define strategic vision and roadmaps across accountable container services and technology, foster a culture of innovation to enable secure business solutions, drive operational excellence, optimize operating costs through technology rationalization and standardization and drive workforce strategy with an emphasis on talent development and retention.\n\nPrimary Job Duties & Responsibilities:\n\nThis role will lead teams accountable to:\n\nBuild and lead highly technical container security experts in areas of solution architecture, software engineering and security framework in areas that align with CVS goals for container adoption.\nDrive container security program governance, objectives, implement solutions, define standards and policies to continually advance a secure enterprise container adoption program.\nDefine secure system solutions to meet evolving threat landscape and risks while balancing impacts to the CVS technology organizations.\nIncorporate security into the DevOps and software development lifecycles through consistent communications and software automation.\nCoordinate comprehensive container security testing and analysis to identify opportunities for CVS to improve its overall container security maturity.\xa0\xa0 Ensure that all team members are aligned with the strategic vision for a secure container environment at scale.\xa0\nLead all container security efforts to align with CVS regulatory compliance, contractual obligations and make recommendations for improvement.\xa0\nManage education opportunities within Cloud Security Services and the internal CVS container customers addressing secure container adoption practices, foundational, non-negotiable controls, and related risks.\nOwnership and management of container security policies and control standards for accountable services.\nThorough understanding of container technologies with a detailed understanding of security best practices, Cloud Security Alliance control architectures and related risks.\nAbility to solve complex container security challenges with automated solutions.\xa0\nKnowledge of automation, governance, identity and access management, logging and monitoring, configurations, compliance methodologies, network solutions, controls and associated risks.\nStrategic thinking, ability to develop long term strategic plans for container security programs in a way that scales in conjunction with organizational adoption goals.\nDetailed understanding of container security, architectures, best practices, and related risks.\xa0\xa0\nKnowledge of industry leading container security tools and applicability to the CVS hybrid ecosystem.\n\n\nRequired Qualifications\n\n10+ years of experience in Cloud Infrastructure Technology\n5+ years of Kubernetes specific experience including high level architectural projects as well as Kubernetes specific automation.\n5+ years of direct people management experience\n2+ years of experience in the Software Development Lifecycle and CI/CD pipeline security concepts and technologies.\n\n\nPreferred Qualifications\n\nUnderstanding of public cloud concepts, preferably AWS, Azure & GCP\nDeep understanding various container offerings and their consumption models.\nThorough understanding of container automation methods and related security implications.\nExperience with container specific security frameworks, regulations, and security technologies such as data and asset protection.\xa0\nSecurity Risk Analysis Procedures & Best Practices\nAgility to deal with a constantly changing business environments.\nComfortable operating within areas of ambiguity to iterate and make progress in a consistent manner.\nAble to build trusted and transparent partnerships between technology, business, customers, and container security providers.\xa0\nDemonstrated experience working with a wide range of internal and external stakeholders at all levels on strategic and operational information security programs.\n\nEducation\n\nBachelor’s degree or equivalent experience (High School Diploma and 4 years relevant experience)\n\nPay Range\n\nThe typical pay range for this role is:\n\n$144,200.00 - $288,400.00\n\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. \xa0The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. \xa0This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. \xa0This position also includes an award target in the company’s equity award program.\xa0\n\xa0\n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\nGreat benefits for great people\n\nWe take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be. In addition to our competitive wages, our great benefits include:\n\nAffordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan.\n\nNo-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching.\n\nBenefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility.\n\nFor more information, visit\xa0https://jobs.cvshealth.com/us/en/benefits\n\nWe anticipate the application window for this opening will close on: 05/30/2025\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.', 'salary': '$144,200.00 - $288,400.00', 'employment_type': None, 'title': 'Lead Director, Kubernetes Security', 'address': ['2100 Highland Corporate Drive, Cumberland, Rhode Island', '9501 East Shea Boulevard, Scottsdale, Arizona', '151 Farmington Avenue, Hartford, Connecticut', '2100 East Lake Cook Road, Buffalo Grove, Illinois', '4700 Steubenville Pike, Pittsburgh, Pennsylvania', '8000 Frankford Road, Dallas, Texas']}
+2025-05-27 17:04:02,956 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:04:06,190 - INFO - {'description': 'At CVS Health, we’re building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care.\n\nAs the nation’s leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues – caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all with heart, each and every day.\n\nPosition Summary\n\n\nThe Shift Supervisor Trainee role is an entry-level, short-term role that prepares an employee to perform a higher-level supervisory role, such as Operations Supervisor or Shift Supervisor. The Shift Supervisor Trainee performs work as directed in order to prepare for future supervisory responsibilities, completes basic operations and management skills training, and also learns about key aspects of the business (e.g., building customer loyalty through exceptional service) and CVS/pharmacy culture.\n\nUpon successful completion of the training program, Shift Supervisor Trainees are eligible to be considered for promotion to open Operations Supervisor or Shift Supervisor positions. These key leadership roles support the CVS Store Management team in driving store execution and performance while building consumer loyalty to CVS/pharmacy through a focus on excellent customer service. When there is no manager onsite, the Operations Supervisor or Shift Supervisor leads the store staff, ensures that store operations run smoothly, and is responsible for ensuring the completion of all opening and closing procedures.\n\nEssential Functions:\n1. Management\n\n\nWork effectively with store management and store crews\n\nSupervise the store’s crew through assigning, directing and following up of all activities\n\nEffectively communicate information both to and from store management and crews\n2. Customer Service\n\nAssist customers with their questions, problems and complaints\n\nPromote CVS customer service culture. (Greet, offer help, and thank)\n\nHandle all customer relations issues in accordance with company policy and promote a positive shopping experience for all CVS customers\n\nMaintain customer/patient confidentiality\n\nRequired Qualifications\n\nDeductive reasoning ability, analytical skills and computer skills. Advanced communication skills. Ability to work a flexible schedule, including some early morning, overnight and weekend shifts, to work overtime as needed.\n\n\nPreferred Qualifications\n\nExperience in retail\n\nEducation\n\nHigh School diploma or equivalent preferred but not required.\n\nAnticipated Weekly Hours\n\n20\n\nTime Type\n\nPart time\n\nPay Range\n\nThe typical pay range for this role is:\n\n$16.00 - $24.00\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. \xa0The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. \xa0\n\xa0\n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\nGreat benefits for great people\n\nWe take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be. In addition to our competitive wages, our great benefits include:\n\nAffordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan.\n\nNo-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching.\n\nBenefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility.\n\nFor more information, visit\xa0https://jobs.cvshealth.com/us/en/benefits\n\nWe anticipate the application window for this opening will close on: 07/09/2025\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:04:06,190 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 17:04:06,529 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://jobs.cvshealth.com/us/en/job/R0334289/Lead-Director-Kubernetes-Security", waiting until "load"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/job/R0334289/Lead-Director-Kubernetes-Security", waiting until "load"
+
+2025-05-27 17:04:30,218 - INFO - Starting CVS Scraper
+2025-05-27 17:04:34,700 - INFO - {'description': 'description', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:04:34,700 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:04:34,914 - INFO - {'description': 'description', 'salary': '$144,200.00 - $288,400.00', 'employment_type': None, 'title': 'Lead Director, Kubernetes Security', 'address': ['2100 Highland Corporate Drive, Cumberland, Rhode Island', '9501 East Shea Boulevard, Scottsdale, Arizona', '151 Farmington Avenue, Hartford, Connecticut', '2100 East Lake Cook Road, Buffalo Grove, Illinois', '4700 Steubenville Pike, Pittsburgh, Pennsylvania', '8000 Frankford Road, Dallas, Texas']}
+2025-05-27 17:04:34,915 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:04:38,201 - INFO - {'description': 'description', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:04:38,202 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 17:04:38,716 - INFO - {'description': 'description', 'salary': '$144,200.00 - $288,400.00', 'employment_type': None, 'title': 'Lead Director, Kubernetes Security', 'address': ['2100 Highland Corporate Drive, Cumberland, Rhode Island', '9501 East Shea Boulevard, Scottsdale, Arizona', '151 Farmington Avenue, Hartford, Connecticut', '2100 East Lake Cook Road, Buffalo Grove, Illinois', '4700 Steubenville Pike, Pittsburgh, Pennsylvania', '8000 Frankford Road, Dallas, Texas']}
+2025-05-27 17:04:38,716 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 17:04:43,185 - INFO - {'description': 'description', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:04:43,185 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 17:04:43,416 - INFO - {'description': 'description', 'salary': '$144,200.00 - $288,400.00', 'employment_type': None, 'title': 'Lead Director, Kubernetes Security', 'address': ['2100 Highland Corporate Drive, Cumberland, Rhode Island', '9501 East Shea Boulevard, Scottsdale, Arizona', '151 Farmington Avenue, Hartford, Connecticut', '2100 East Lake Cook Road, Buffalo Grove, Illinois', '4700 Steubenville Pike, Pittsburgh, Pennsylvania', '8000 Frankford Road, Dallas, Texas']}
+2025-05-27 17:04:43,417 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 17:04:49,656 - INFO - {'description': 'description', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:04:49,656 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 17:04:50,470 - INFO - {'description': 'description', 'salary': '$144,200.00 - $288,400.00', 'employment_type': None, 'title': 'Lead Director, Kubernetes Security', 'address': ['2100 Highland Corporate Drive, Cumberland, Rhode Island', '9501 East Shea Boulevard, Scottsdale, Arizona', '151 Farmington Avenue, Hartford, Connecticut', '2100 East Lake Cook Road, Buffalo Grove, Illinois', '4700 Steubenville Pike, Pittsburgh, Pennsylvania', '8000 Frankford Road, Dallas, Texas']}
+2025-05-27 17:04:50,471 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 17:05:00,185 - INFO - {'description': 'description', 'salary': '$16.00 - $24.00', 'employment_type': 'Part time', 'title': 'Shift Supervisor Trainee', 'address': ['Location:\n1235 S BUCKNER BLVD, Dallas, Texas']}
+2025-05-27 17:05:00,186 - WARNING - Attempt 5 failed: 'addresses'
+2025-05-27 17:05:00,186 - ERROR - Failed
+2025-05-27 17:05:01,286 - INFO - {'description': 'description', 'salary': '$144,200.00 - $288,400.00', 'employment_type': None, 'title': 'Lead Director, Kubernetes Security', 'address': ['2100 Highland Corporate Drive, Cumberland, Rhode Island', '9501 East Shea Boulevard, Scottsdale, Arizona', '151 Farmington Avenue, Hartford, Connecticut', '2100 East Lake Cook Road, Buffalo Grove, Illinois', '4700 Steubenville Pike, Pittsburgh, Pennsylvania', '8000 Frankford Road, Dallas, Texas']}
+2025-05-27 17:05:01,286 - WARNING - Attempt 5 failed: 'addresses'
+2025-05-27 17:05:01,287 - ERROR - Failed
+2025-05-27 17:05:03,136 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Full time', 'title': 'Pharmacy Technician', 'address': ['Location:\n3012 MOCKINGBIRD LN, Dallas, Texas']}
+2025-05-27 17:05:03,136 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:05:03,999 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Part time', 'title': 'Pharmacy Technician', 'address': ['Location:\n17410 MARSH LN, Dallas, Texas']}
+2025-05-27 17:05:03,999 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:05:06,587 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Full time', 'title': 'Pharmacy Technician', 'address': ['Location:\n3012 MOCKINGBIRD LN, Dallas, Texas']}
+2025-05-27 17:05:06,588 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 17:05:07,272 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Part time', 'title': 'Pharmacy Technician', 'address': ['Location:\n17410 MARSH LN, Dallas, Texas']}
+2025-05-27 17:05:07,273 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 17:05:12,834 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Part time', 'title': 'Pharmacy Technician', 'address': ['Location:\n17410 MARSH LN, Dallas, Texas']}
+2025-05-27 17:05:12,834 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 17:05:13,431 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Full time', 'title': 'Pharmacy Technician', 'address': ['Location:\n3012 MOCKINGBIRD LN, Dallas, Texas']}
+2025-05-27 17:05:13,432 - WARNING - Attempt 3 failed: 'addresses'
+2025-05-27 17:05:19,133 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Part time', 'title': 'Pharmacy Technician', 'address': ['Location:\n17410 MARSH LN, Dallas, Texas']}
+2025-05-27 17:05:19,133 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 17:05:20,166 - INFO - {'description': 'description', 'salary': '$16.00 - $25.00', 'employment_type': 'Full time', 'title': 'Pharmacy Technician', 'address': ['Location:\n3012 MOCKINGBIRD LN, Dallas, Texas']}
+2025-05-27 17:05:20,166 - WARNING - Attempt 4 failed: 'addresses'
+2025-05-27 17:07:21,438 - INFO - Starting CVS Scraper
+2025-05-27 17:07:25,984 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:07:28,725 - WARNING - Attempt 1 failed: 'addresses'
+2025-05-27 17:07:29,352 - WARNING - Attempt 2 failed: 'addresses'
+2025-05-27 17:07:58,198 - INFO - Starting CVS Scraper
+2025-05-27 17:08:28,638 - INFO - Total jobs in formatted_data: 50
+2025-05-27 17:08:28,639 - INFO - Total jobs in bad_data: 20
+2025-05-27 17:10:11,475 - INFO - Starting CVS Scraper
+2025-05-27 17:10:40,992 - INFO - Total jobs in formatted_data: 50
+2025-05-27 17:10:40,993 - INFO - Total jobs in bad_data: 20
+2025-05-27 17:19:16,065 - INFO - Starting CVS Scraper
+2025-05-27 17:19:29,355 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0562112/Primary-Care-Physician: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/job/R0562112/Primary-Care-Physician", waiting until "load"
+
+2025-05-27 17:19:29,498 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://jobs.cvshealth.com/us/en/job/R0543016/Shift-Supervisor-Trainee", waiting until "load"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://jobs.cvshealth.com/us/en/job/R0543016/Shift-Supervisor-Trainee", waiting until "load"
+
+2025-05-27 17:24:42,142 - INFO - Starting CVS Scraper
+2025-05-27 17:25:10,766 - INFO - Total jobs in formatted_data: 25
+2025-05-27 17:25:10,766 - INFO - Total jobs in bad_data: 0
+2025-05-27 17:28:57,905 - INFO - Starting CVS Scraper
+2025-05-27 17:30:18,760 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0559592/Sr-Manager-Underwriting: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-ps=\"370cdfc3-span-27\"]") to be visible
+    3 × locator resolved to 19 elements. Proceeding with the first one: <span data-ps="370cdfc3-span-27">Work At Home, Arizona</span>
+    49 × locator resolved to 19 elements. Proceeding with the first one: <span data-ps="370cdfc3-span-27">Corporate</span>
+
+2025-05-27 17:30:18,819 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:30:45,926 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0552461/Outreach-Executive: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:30:45,937 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:06,188 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0600074/Director-Omnichannel-Planning-and-Analytics: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("[data-ps=\"370cdfc3-span-27\"]") to be visible
+    3 × locator resolved to 9 elements. Proceeding with the first one: <span data-ps="370cdfc3-span-27">One CVS Drive, Woonsocket, Rhode Island</span>
+    54 × locator resolved to 9 elements. Proceeding with the first one: <span data-ps="370cdfc3-span-27">Corporate</span>
+
+2025-05-27 17:31:06,196 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:13,897 - WARNING - Attempt 1 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:14,145 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0577565/Registered-Nurse-Integrated-Care-Manager: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:14,153 - WARNING - Attempt 2 failed: 'address'
+2025-05-27 17:31:14,530 - WARNING - Attempt 1 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:14,918 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0590319/Pharmacy-Intern: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:14,927 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,231 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0591322/Store-Associate: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,240 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,255 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0599241/Shift-Supervisor-Trainee: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,265 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,336 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0564960/Pharmacist-Full-Time: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,339 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0538024/Store-Manager-in-Training: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,347 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,349 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,352 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0542570/Shift-Supervisor-Trainee: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,363 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,397 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0592055/Shift-Supervisor-Trainee: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,399 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0603598/Operations-Manager: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,406 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,409 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,612 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0585036/Pharmacy-Technician: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,621 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:15,689 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0563638/Medical-Scribe: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:15,698 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:16,033 - ERROR - Error extracting job details from https://jobs.cvshealth.com/us/en/job/R0469835/Pharmacy-Technician: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.job-info-wrapper.g-col-8.g-col-lg-12") to be visible
+
+2025-05-27 17:31:16,042 - WARNING - Attempt 1 failed: 'address'
+2025-05-27 17:31:17,479 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:37,719 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:45,458 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:46,047 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:46,576 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:46,827 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,028 - WARNING - Attempt 3 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,059 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,106 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,136 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,152 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,356 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,383 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,430 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,462 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:47,660 - WARNING - Attempt 2 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:31:50,923 - WARNING - Attempt 3 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:32:10,339 - WARNING - Attempt 3 failed: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
+2025-05-27 17:32:15,200 - WARNING - Attempt 4 failed: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h3.phw-pr-4 a") to be visible
+
